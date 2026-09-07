@@ -1,0 +1,1001 @@
+﻿Order_ID,Order_Date,Category,Product,Region,Customer_Segment,Quantity,Unit_Price,Sales,Profit
+1,2025-04-25 00:00:00,Electronics,Laptop,East,Consumer,3,370.87,1112.61,243.86
+2,2025-01-16 00:00:00,Electronics,Monitor,West,Consumer,2,117.13,234.26,41.31
+3,2025-11-29 00:00:00,Electronics,Monitor,South,Small Business,7,118.02,826.14,163.01
+4,2025-05-23 00:00:00,Electronics,Headphones,West,Corporate,3,115.5,346.5,83.46
+5,2025-07-03 00:00:00,Electronics,Laptop,West,Consumer,6,305.83,1834.98,462.02
+6,2025-02-10 00:00:00,Accessories,Wallet,North,Corporate,5,416.41,2082.05,426.05
+7,2025-02-05 00:00:00,Office Supplies,File Folder,South,Small Business,1,334.02,334.02,81.26
+8,2025-05-23 00:00:00,Electronics,Headphones,North,Corporate,8,321.49,2571.92,363.18
+9,2025-05-17 00:00:00,Office Supplies,Printer Paper,South,Small Business,2,308.47,616.94,57.24
+10,2025-05-19 00:00:00,Furniture,Desk,West,Corporate,4,345.46,1381.84,360.26
+11,2025-07-25 00:00:00,Electronics,Headphones,North,Corporate,5,42.43,212.15,59.04
+12,2025-11-26 00:00:00,Office Supplies,Pen,West,Corporate,8,80.01,640.08,54.35
+13,2025-07-24 00:00:00,Office Supplies,File Folder,West,Small Business,6,117.47,704.82,211.01
+14,2025-03-20 00:00:00,Accessories,Backpack,North,Consumer,3,398.12,1194.36,185.77
+15,2025-08-28 00:00:00,Electronics,Mouse,West,Small Business,5,485.83,2429.15,644.2
+16,2025-06-24 00:00:00,Electronics,Laptop,East,Small Business,2,153.82,307.64,27.55
+17,2025-02-24 00:00:00,Electronics,Keyboard,South,Small Business,5,422.42,2112.1,373.66
+18,2025-10-04 00:00:00,Furniture,Desk,East,Consumer,1,303.48,303.48,52.24
+19,2025-01-30 00:00:00,Electronics,Keyboard,East,Consumer,4,440.22,1760.88,504.91
+20,2025-03-06 00:00:00,Electronics,Mouse,North,Small Business,3,333.28,999.84,286.67
+21,2025-10-04 00:00:00,Furniture,Bookshelf,West,Consumer,4,359.34,1437.36,215.24
+22,2025-05-07 00:00:00,Office Supplies,Stapler,West,Consumer,4,41.37,165.48,9.14
+23,2025-02-06 00:00:00,Furniture,Sofa,South,Consumer,1,122.18,122.18,33.77
+24,2025-12-09 00:00:00,Office Supplies,Notebook,South,Corporate,8,114.98,919.84,76.42
+25,2025-04-08 00:00:00,Accessories,Water Bottle,West,Corporate,2,57.5,115,18.14
+26,2025-01-28 00:00:00,Accessories,Phone Stand,West,Small Business,2,39.7,79.4,18.43
+27,2025-10-02 00:00:00,Electronics,Headphones,South,Consumer,8,78.69,629.52,60.35
+28,2025-10-09 00:00:00,Accessories,Water Bottle,North,Corporate,2,34.79,69.58,20.86
+29,2025-07-28 00:00:00,Electronics,Laptop,South,Consumer,8,245.87,1966.96,523.53
+30,2025-07-19 00:00:00,Electronics,Headphones,West,Consumer,5,463.99,2319.95,571.36
+31,2025-04-08 00:00:00,Office Supplies,Stapler,West,Consumer,5,116.67,583.35,37.7
+32,2025-10-27 00:00:00,Electronics,Keyboard,North,Consumer,8,256.4,2051.2,539.83
+33,2025-02-05 00:00:00,Furniture,Chair,North,Consumer,2,340.85,681.7,74.17
+34,2025-11-01 00:00:00,Electronics,Monitor,South,Small Business,1,313.5,313.5,48.53
+35,2025-06-10 00:00:00,Office Supplies,Printer Paper,South,Small Business,4,140.15,560.6,46.37
+36,2025-01-05 00:00:00,Office Supplies,Stapler,East,Consumer,8,314.37,2514.96,479.72
+37,2025-05-16 00:00:00,Electronics,Laptop,South,Small Business,3,467.3,1401.9,378.82
+38,2025-08-13 00:00:00,Furniture,Bookshelf,East,Consumer,5,309.72,1548.6,459.64
+39,2025-02-23 00:00:00,Electronics,Monitor,East,Small Business,3,139.59,418.77,114.08
+40,2025-04-18 00:00:00,Furniture,Bookshelf,East,Small Business,6,109.76,658.56,137.35
+41,2025-01-27 00:00:00,Office Supplies,File Folder,West,Corporate,2,320.8,641.6,165.11
+42,2025-11-23 00:00:00,Electronics,Laptop,East,Consumer,5,89.18,445.9,71.55
+43,2025-02-08 00:00:00,Accessories,Wallet,North,Consumer,3,277.34,832.02,215.2
+44,2025-06-07 00:00:00,Furniture,Table,South,Consumer,6,450.5,2703,673.13
+45,2025-05-08 00:00:00,Electronics,Keyboard,South,Small Business,2,183.3,366.6,69.64
+46,2025-03-25 00:00:00,Accessories,Wallet,South,Consumer,3,441.89,1325.67,74.5
+47,2025-03-23 00:00:00,Office Supplies,Stapler,South,Corporate,2,197.45,394.9,23.57
+48,2025-06-29 00:00:00,Accessories,Water Bottle,South,Corporate,5,412.06,2060.3,551.81
+49,2025-06-18 00:00:00,Furniture,Chair,South,Corporate,5,433.53,2167.65,632.35
+50,2025-10-02 00:00:00,Office Supplies,Printer Paper,West,Small Business,6,470.23,2821.38,222.42
+51,2025-02-25 00:00:00,Office Supplies,Pen,East,Consumer,7,179.39,1255.73,309.67
+52,2025-10-23 00:00:00,Accessories,Wallet,North,Corporate,4,134.81,539.24,122.51
+53,2025-08-09 00:00:00,Electronics,Monitor,South,Corporate,2,474.95,949.9,266.16
+54,2025-06-08 00:00:00,Office Supplies,Notebook,East,Small Business,7,169.83,1188.81,266.65
+55,2025-07-14 00:00:00,Furniture,Desk,West,Small Business,3,311.6,934.8,117.07
+56,2025-08-09 00:00:00,Electronics,Keyboard,East,Consumer,6,237.84,1427.04,229.1
+57,2025-03-28 00:00:00,Furniture,Sofa,West,Small Business,2,149.06,298.12,64.38
+58,2025-06-08 00:00:00,Office Supplies,Notebook,South,Small Business,4,405.22,1620.88,140.75
+59,2025-02-07 00:00:00,Electronics,Headphones,West,Small Business,8,213.08,1704.64,353.61
+60,2025-05-05 00:00:00,Furniture,Table,West,Corporate,3,331.47,994.41,51.1
+61,2025-12-23 00:00:00,Electronics,Mouse,South,Consumer,8,34.61,276.88,31.09
+62,2025-12-08 00:00:00,Electronics,Mouse,South,Corporate,6,475.52,2853.12,778.49
+63,2025-09-01 00:00:00,Accessories,Wallet,West,Consumer,8,137,1096,122.54
+64,2025-05-03 00:00:00,Office Supplies,File Folder,West,Small Business,5,225.54,1127.7,257.55
+65,2025-10-04 00:00:00,Furniture,Bookshelf,East,Corporate,2,77.8,155.6,16.78
+66,2025-07-28 00:00:00,Furniture,Desk,North,Corporate,6,275.88,1655.28,254.82
+67,2025-12-23 00:00:00,Furniture,Table,West,Small Business,1,429.8,429.8,103.75
+68,2025-06-02 00:00:00,Accessories,Phone Stand,North,Corporate,7,428.19,2997.33,864.3
+69,2025-04-23 00:00:00,Accessories,Wallet,South,Corporate,5,223.56,1117.8,64
+70,2025-03-07 00:00:00,Office Supplies,Stapler,South,Corporate,1,454.4,454.4,89.96
+71,2025-08-25 00:00:00,Electronics,Laptop,West,Consumer,3,34.64,103.92,15.05
+72,2025-07-14 00:00:00,Furniture,Table,East,Corporate,5,378.48,1892.4,488.2
+73,2025-10-04 00:00:00,Office Supplies,Notebook,West,Consumer,1,499.95,499.95,68.74
+74,2025-04-13 00:00:00,Electronics,Laptop,North,Consumer,1,314.45,314.45,34.48
+75,2025-12-25 00:00:00,Accessories,Backpack,South,Corporate,5,385.78,1928.9,177.36
+76,2025-10-24 00:00:00,Electronics,Headphones,East,Consumer,1,465.15,465.15,90.22
+77,2025-10-31 00:00:00,Accessories,Phone Stand,South,Consumer,4,59.93,239.72,58.28
+78,2025-09-30 00:00:00,Electronics,Monitor,North,Corporate,7,334.15,2339.05,157.28
+79,2025-02-24 00:00:00,Office Supplies,Notebook,West,Corporate,7,480.79,3365.53,703.05
+80,2025-09-25 00:00:00,Accessories,Water Bottle,West,Consumer,5,311.8,1559,436.37
+81,2025-10-31 00:00:00,Accessories,Phone Stand,West,Small Business,5,167.93,839.65,93.52
+82,2025-08-26 00:00:00,Electronics,Keyboard,West,Consumer,7,174.83,1223.81,212.42
+83,2025-07-01 00:00:00,Office Supplies,Pen,West,Consumer,5,176.77,883.85,238.71
+84,2025-04-08 00:00:00,Office Supplies,File Folder,North,Small Business,2,128.26,256.52,38.89
+85,2025-01-09 00:00:00,Furniture,Table,West,Corporate,2,154.18,308.36,46.59
+86,2025-10-11 00:00:00,Furniture,Bookshelf,East,Corporate,6,218.5,1311,310.03
+87,2025-06-06 00:00:00,Office Supplies,Printer Paper,West,Corporate,5,122.96,614.8,141.6
+88,2025-04-21 00:00:00,Office Supplies,Notebook,South,Consumer,8,145.48,1163.84,229.74
+89,2025-04-27 00:00:00,Office Supplies,Notebook,South,Corporate,6,97.93,587.58,31.46
+90,2025-10-11 00:00:00,Furniture,Bookshelf,North,Consumer,5,351.73,1758.65,143.45
+91,2025-05-26 00:00:00,Accessories,Backpack,North,Small Business,8,244.57,1956.56,264.48
+92,2025-02-03 00:00:00,Electronics,Keyboard,West,Consumer,7,250.96,1756.72,341.25
+93,2025-06-05 00:00:00,Electronics,Headphones,South,Small Business,2,497.02,994.04,79.14
+94,2025-07-14 00:00:00,Accessories,Wallet,South,Small Business,8,455.17,3641.36,452.76
+95,2025-02-20 00:00:00,Accessories,USB Cable,North,Small Business,4,316.5,1266,147.06
+96,2025-10-10 00:00:00,Electronics,Headphones,South,Consumer,2,86.7,173.4,26.38
+97,2025-05-28 00:00:00,Accessories,USB Cable,North,Consumer,5,354.46,1772.3,289.78
+98,2025-02-28 00:00:00,Furniture,Bookshelf,South,Corporate,4,327.34,1309.36,362.83
+99,2025-06-07 00:00:00,Furniture,Chair,North,Consumer,5,225.19,1125.95,188.23
+100,2025-10-04 00:00:00,Office Supplies,Stapler,East,Small Business,8,224.5,1796,358.32
+101,2025-02-16 00:00:00,Accessories,USB Cable,East,Consumer,4,481.34,1925.36,498.65
+102,2025-08-29 00:00:00,Electronics,Keyboard,North,Consumer,8,458.88,3671.04,350.12
+103,2025-06-28 00:00:00,Accessories,Phone Stand,North,Corporate,7,173.32,1213.24,263.92
+104,2025-09-11 00:00:00,Furniture,Bookshelf,West,Small Business,5,334.67,1673.35,251.19
+105,2025-05-10 00:00:00,Electronics,Mouse,North,Corporate,6,66.8,400.8,97.45
+106,2025-01-28 00:00:00,Electronics,Monitor,West,Corporate,4,264.04,1056.16,217.21
+107,2025-05-17 00:00:00,Accessories,Phone Stand,North,Consumer,3,464.56,1393.68,222.33
+108,2025-11-08 00:00:00,Accessories,Backpack,North,Small Business,4,357.79,1431.16,182.74
+109,2025-04-26 00:00:00,Electronics,Monitor,West,Consumer,2,236.11,472.22,37.48
+110,2025-12-28 00:00:00,Furniture,Table,East,Small Business,5,213.59,1067.95,182.22
+111,2025-03-16 00:00:00,Accessories,Water Bottle,West,Small Business,7,103.4,723.8,144.65
+112,2025-06-24 00:00:00,Furniture,Chair,East,Corporate,5,412.07,2060.35,248.7
+113,2025-08-17 00:00:00,Office Supplies,File Folder,West,Consumer,8,179.11,1432.88,269.35
+114,2025-12-24 00:00:00,Accessories,Phone Stand,East,Consumer,4,290.18,1160.72,125.81
+115,2025-08-31 00:00:00,Accessories,Backpack,East,Small Business,7,199.18,1394.26,301.05
+116,2025-09-15 00:00:00,Furniture,Table,North,Consumer,6,436.15,2616.9,702.76
+117,2025-03-15 00:00:00,Accessories,Backpack,West,Consumer,7,436.76,3057.32,894.23
+118,2025-11-16 00:00:00,Electronics,Mouse,East,Corporate,7,328.42,2298.94,604.49
+119,2025-01-19 00:00:00,Accessories,USB Cable,West,Small Business,2,125.04,250.08,55.29
+120,2025-02-20 00:00:00,Office Supplies,Pen,North,Corporate,2,227.4,454.8,101.65
+121,2025-05-31 00:00:00,Electronics,Laptop,East,Consumer,6,193.67,1162.02,100.39
+122,2025-03-31 00:00:00,Accessories,Wallet,South,Consumer,2,308.65,617.3,89.9
+123,2025-08-25 00:00:00,Furniture,Table,South,Consumer,5,235.19,1175.95,254.84
+124,2025-08-15 00:00:00,Accessories,USB Cable,South,Consumer,6,493.95,2963.7,369.84
+125,2025-04-12 00:00:00,Accessories,USB Cable,West,Corporate,7,428.13,2996.91,229.75
+126,2025-06-01 00:00:00,Accessories,Wallet,East,Small Business,5,20.75,103.75,26.72
+127,2025-12-18 00:00:00,Accessories,USB Cable,North,Small Business,1,456.2,456.2,107.8
+128,2025-11-22 00:00:00,Office Supplies,Pen,East,Consumer,4,314.24,1256.96,275.83
+129,2025-08-14 00:00:00,Furniture,Chair,North,Corporate,1,293.99,293.99,68.53
+130,2025-08-01 00:00:00,Electronics,Keyboard,East,Small Business,3,108.39,325.17,80.2
+131,2025-05-12 00:00:00,Office Supplies,File Folder,East,Consumer,8,484.02,3872.16,479.32
+132,2025-03-14 00:00:00,Office Supplies,Notebook,West,Consumer,4,431.47,1725.88,398.77
+133,2025-07-22 00:00:00,Accessories,Wallet,East,Consumer,1,139.58,139.58,11.29
+134,2025-07-10 00:00:00,Office Supplies,Printer Paper,West,Small Business,2,340.67,681.34,114.38
+135,2025-02-02 00:00:00,Office Supplies,File Folder,South,Small Business,8,455.6,3644.8,457.6
+136,2025-01-20 00:00:00,Accessories,Backpack,South,Consumer,5,498,2490,196.78
+137,2025-08-21 00:00:00,Furniture,Sofa,South,Corporate,6,338.54,2031.24,478.94
+138,2025-12-02 00:00:00,Accessories,Wallet,South,Corporate,2,418.51,837.02,170.68
+139,2025-08-16 00:00:00,Office Supplies,Notebook,East,Consumer,8,475.77,3806.16,1004.3
+140,2025-07-23 00:00:00,Electronics,Keyboard,East,Consumer,5,103.01,515.05,41.48
+141,2025-11-24 00:00:00,Accessories,Backpack,South,Small Business,1,34.78,34.78,4.64
+142,2025-10-11 00:00:00,Furniture,Sofa,South,Consumer,4,297.33,1189.32,301.21
+143,2025-01-02 00:00:00,Furniture,Bookshelf,South,Small Business,5,430.62,2153.1,185.54
+144,2025-02-26 00:00:00,Furniture,Sofa,East,Consumer,1,74.58,74.58,10.41
+145,2025-03-31 00:00:00,Furniture,Sofa,East,Consumer,5,35.68,178.4,42
+146,2025-07-05 00:00:00,Electronics,Laptop,West,Corporate,2,231.48,462.96,48.79
+147,2025-11-26 00:00:00,Electronics,Monitor,East,Corporate,1,39.8,39.8,6.76
+148,2025-12-31 00:00:00,Accessories,Phone Stand,North,Corporate,8,46.01,368.08,25.84
+149,2025-11-16 00:00:00,Furniture,Chair,South,Corporate,6,196.64,1179.84,235.2
+150,2025-12-26 00:00:00,Office Supplies,Stapler,West,Consumer,2,427.87,855.74,182.04
+151,2025-07-31 00:00:00,Furniture,Table,West,Consumer,6,415.44,2492.64,373.1
+152,2025-12-07 00:00:00,Electronics,Keyboard,West,Corporate,5,193.41,967.05,85.25
+153,2025-02-17 00:00:00,Accessories,Backpack,North,Consumer,7,57.32,401.24,94.17
+154,2025-10-15 00:00:00,Furniture,Sofa,North,Small Business,6,338.31,2029.86,309.96
+155,2025-06-09 00:00:00,Accessories,Backpack,East,Small Business,6,60.76,364.56,64.47
+156,2025-06-29 00:00:00,Furniture,Table,South,Consumer,6,66.29,397.74,47.59
+157,2025-12-03 00:00:00,Furniture,Table,North,Small Business,5,24.19,120.95,14.31
+158,2025-04-03 00:00:00,Office Supplies,Printer Paper,East,Consumer,3,287.5,862.5,129.54
+159,2025-09-29 00:00:00,Furniture,Chair,North,Small Business,4,194.34,777.36,127.03
+160,2025-06-16 00:00:00,Furniture,Bookshelf,East,Small Business,2,442.84,885.68,78.73
+161,2025-12-05 00:00:00,Electronics,Laptop,East,Corporate,7,247.97,1735.79,278.61
+162,2025-08-09 00:00:00,Office Supplies,Pen,North,Corporate,2,148.79,297.58,65.35
+163,2025-04-23 00:00:00,Accessories,Wallet,East,Consumer,7,492.38,3446.66,219.54
+164,2025-05-11 00:00:00,Furniture,Bookshelf,South,Consumer,5,170.78,853.9,44.35
+165,2025-09-30 00:00:00,Accessories,Water Bottle,South,Corporate,4,255.13,1020.52,263.64
+166,2025-01-22 00:00:00,Office Supplies,Notebook,West,Small Business,7,19.18,134.26,37.63
+167,2025-07-27 00:00:00,Office Supplies,File Folder,West,Small Business,7,151.86,1063.02,160.79
+168,2025-07-05 00:00:00,Office Supplies,Pen,West,Small Business,2,223.99,447.98,34.26
+169,2025-02-10 00:00:00,Accessories,Wallet,West,Small Business,7,436.56,3055.92,722.58
+170,2025-09-19 00:00:00,Furniture,Bookshelf,South,Consumer,2,270,540,53.18
+171,2025-02-22 00:00:00,Office Supplies,Printer Paper,South,Consumer,3,135.42,406.26,37.93
+172,2025-09-10 00:00:00,Furniture,Chair,South,Small Business,8,379.68,3037.44,728.89
+173,2025-06-11 00:00:00,Accessories,Wallet,East,Small Business,3,225.48,676.44,113.12
+174,2025-09-17 00:00:00,Office Supplies,Printer Paper,North,Corporate,2,162.1,324.2,52.84
+175,2025-11-27 00:00:00,Electronics,Keyboard,East,Consumer,2,311.35,622.7,110.07
+176,2025-10-20 00:00:00,Accessories,Wallet,North,Corporate,4,167.55,670.2,113.2
+177,2025-06-25 00:00:00,Furniture,Chair,West,Consumer,2,257.23,514.46,47.92
+178,2025-09-25 00:00:00,Furniture,Table,West,Small Business,3,188.31,564.93,157.89
+179,2025-11-03 00:00:00,Accessories,Phone Stand,East,Small Business,1,396.72,396.72,84.04
+180,2025-12-14 00:00:00,Electronics,Keyboard,North,Small Business,7,149.23,1044.61,241.24
+181,2025-12-06 00:00:00,Furniture,Bookshelf,North,Small Business,3,459.21,1377.63,175.73
+182,2025-10-14 00:00:00,Accessories,Water Bottle,North,Corporate,7,325.31,2277.17,300.86
+183,2025-12-10 00:00:00,Furniture,Sofa,North,Small Business,7,259.16,1814.12,98.97
+184,2025-09-06 00:00:00,Office Supplies,Pen,South,Corporate,4,121.01,484.04,40.85
+185,2025-10-04 00:00:00,Electronics,Keyboard,North,Small Business,1,334.35,334.35,89.97
+186,2025-03-25 00:00:00,Furniture,Sofa,West,Consumer,3,417.36,1252.08,303.97
+187,2025-07-06 00:00:00,Furniture,Table,North,Corporate,4,485.1,1940.4,393.22
+188,2025-08-29 00:00:00,Accessories,Water Bottle,South,Corporate,4,190.24,760.96,218.23
+189,2025-09-15 00:00:00,Accessories,Phone Stand,East,Corporate,7,483.47,3384.29,860.36
+190,2025-09-04 00:00:00,Furniture,Bookshelf,North,Small Business,6,281.72,1690.32,127.87
+191,2025-05-20 00:00:00,Electronics,Keyboard,North,Consumer,8,453.6,3628.8,315.11
+192,2025-06-28 00:00:00,Accessories,Backpack,South,Corporate,1,213.3,213.3,31.81
+193,2025-07-11 00:00:00,Office Supplies,Pen,West,Consumer,4,23.81,95.24,26.92
+194,2025-05-27 00:00:00,Office Supplies,Pen,South,Consumer,8,351.08,2808.64,237.89
+195,2025-01-10 00:00:00,Accessories,Phone Stand,North,Consumer,5,115.67,578.35,50.54
+196,2025-06-04 00:00:00,Accessories,Backpack,East,Consumer,2,33.4,66.8,10.35
+197,2025-11-02 00:00:00,Accessories,Backpack,North,Corporate,1,319.66,319.66,61.94
+198,2025-11-11 00:00:00,Furniture,Bookshelf,West,Consumer,6,127.88,767.28,118.27
+199,2025-09-27 00:00:00,Electronics,Monitor,East,Consumer,1,201.32,201.32,33.73
+200,2025-01-09 00:00:00,Accessories,USB Cable,East,Small Business,6,396.37,2378.22,323.92
+201,2025-01-23 00:00:00,Electronics,Monitor,East,Consumer,6,277.55,1665.3,421.95
+202,2025-04-04 00:00:00,Furniture,Table,West,Small Business,3,40.92,122.76,29.96
+203,2025-01-23 00:00:00,Accessories,Backpack,East,Consumer,4,444.04,1776.16,228.95
+204,2025-08-31 00:00:00,Office Supplies,File Folder,West,Small Business,5,27.94,139.7,29.58
+205,2025-06-19 00:00:00,Office Supplies,Printer Paper,North,Small Business,5,70.99,354.95,50.4
+206,2025-04-06 00:00:00,Accessories,Phone Stand,West,Corporate,8,349.11,2792.88,396.13
+207,2025-08-09 00:00:00,Office Supplies,Notebook,West,Consumer,3,277.28,831.84,108.39
+208,2025-08-17 00:00:00,Electronics,Keyboard,East,Corporate,7,91.66,641.62,103.29
+209,2025-08-11 00:00:00,Accessories,Backpack,East,Small Business,5,323.34,1616.7,400.73
+210,2025-09-20 00:00:00,Electronics,Laptop,West,Corporate,3,476.87,1430.61,122.6
+211,2025-05-01 00:00:00,Accessories,Backpack,South,Consumer,6,187.45,1124.7,323.2
+212,2025-08-19 00:00:00,Electronics,Monitor,South,Small Business,6,192.29,1153.74,277.79
+213,2025-06-10 00:00:00,Furniture,Sofa,East,Corporate,5,132.31,661.55,51.84
+214,2025-03-02 00:00:00,Furniture,Table,West,Small Business,5,389.73,1948.65,440.41
+215,2025-09-09 00:00:00,Furniture,Sofa,East,Small Business,4,70.09,280.36,73.79
+216,2025-12-16 00:00:00,Accessories,Water Bottle,West,Consumer,6,337.24,2023.44,460.1
+217,2025-12-30 00:00:00,Office Supplies,Printer Paper,South,Small Business,3,398.91,1196.73,212.05
+218,2025-09-10 00:00:00,Electronics,Headphones,South,Consumer,1,186.84,186.84,36.07
+219,2025-02-14 00:00:00,Accessories,Wallet,South,Small Business,2,161.55,323.1,96.9
+220,2025-10-22 00:00:00,Accessories,Wallet,West,Corporate,2,71.41,142.82,18.46
+221,2025-09-22 00:00:00,Electronics,Mouse,West,Small Business,6,72.88,437.28,112.5
+222,2025-01-29 00:00:00,Furniture,Desk,West,Small Business,2,263.87,527.74,66.51
+223,2025-09-23 00:00:00,Furniture,Bookshelf,South,Corporate,5,424.51,2122.55,239.11
+224,2025-10-01 00:00:00,Office Supplies,Pen,East,Small Business,2,256.26,512.52,47.23
+225,2025-01-22 00:00:00,Furniture,Desk,East,Small Business,1,49.8,49.8,14.3
+226,2025-11-24 00:00:00,Office Supplies,Pen,West,Small Business,1,254.04,254.04,52.53
+227,2025-12-17 00:00:00,Office Supplies,Printer Paper,West,Consumer,7,155.74,1090.18,74.4
+228,2025-09-05 00:00:00,Electronics,Headphones,West,Corporate,8,109.97,879.76,177.42
+229,2025-03-08 00:00:00,Office Supplies,Printer Paper,East,Corporate,6,262.34,1574.04,120.49
+230,2025-08-19 00:00:00,Furniture,Table,North,Corporate,4,79.03,316.12,19.81
+231,2025-03-23 00:00:00,Accessories,Wallet,West,Consumer,6,467.54,2805.24,646
+232,2025-08-28 00:00:00,Furniture,Desk,West,Small Business,8,440.75,3526,614.73
+233,2025-04-21 00:00:00,Electronics,Mouse,West,Consumer,6,33.84,203.04,24.43
+234,2025-08-09 00:00:00,Accessories,USB Cable,North,Consumer,3,442.4,1327.2,307.75
+235,2025-01-27 00:00:00,Accessories,USB Cable,North,Corporate,4,187.64,750.56,91.68
+236,2025-05-24 00:00:00,Accessories,Wallet,West,Small Business,2,73.05,146.1,10.84
+237,2025-04-12 00:00:00,Office Supplies,Printer Paper,East,Consumer,7,255.04,1785.28,109.48
+238,2025-08-22 00:00:00,Furniture,Bookshelf,West,Small Business,3,307.07,921.21,164.78
+239,2025-07-21 00:00:00,Office Supplies,File Folder,East,Consumer,5,300.93,1504.65,266.07
+240,2025-01-09 00:00:00,Accessories,Wallet,East,Corporate,6,172.31,1033.86,80.02
+241,2025-12-19 00:00:00,Accessories,Wallet,East,Small Business,1,302.49,302.49,35.2
+242,2025-09-26 00:00:00,Furniture,Chair,West,Consumer,7,82.41,576.87,127.02
+243,2025-01-10 00:00:00,Electronics,Monitor,North,Consumer,8,163.71,1309.68,115.07
+244,2025-02-01 00:00:00,Furniture,Table,West,Small Business,3,264.15,792.45,150.74
+245,2025-03-30 00:00:00,Accessories,Wallet,West,Corporate,8,456.94,3655.52,495.62
+246,2025-05-07 00:00:00,Office Supplies,Printer Paper,West,Consumer,5,283.46,1417.3,150.54
+247,2025-12-27 00:00:00,Office Supplies,Printer Paper,South,Small Business,8,165.35,1322.8,181.49
+248,2025-12-13 00:00:00,Office Supplies,Printer Paper,North,Small Business,7,448.92,3142.44,467.07
+249,2025-05-28 00:00:00,Office Supplies,Pen,East,Consumer,2,179.72,359.44,57.72
+250,2025-10-03 00:00:00,Office Supplies,Stapler,South,Consumer,5,467.18,2335.9,523.34
+251,2025-01-26 00:00:00,Furniture,Chair,South,Consumer,4,322.59,1290.36,81.45
+252,2025-12-15 00:00:00,Accessories,USB Cable,West,Consumer,3,12.54,37.62,7.06
+253,2025-11-30 00:00:00,Furniture,Table,West,Corporate,4,380.4,1521.6,185.35
+254,2025-10-21 00:00:00,Office Supplies,Notebook,North,Small Business,4,272.22,1088.88,251.29
+255,2025-01-19 00:00:00,Electronics,Headphones,West,Consumer,7,396.1,2772.7,267.78
+256,2025-10-18 00:00:00,Office Supplies,Notebook,North,Corporate,2,464.94,929.88,124.38
+257,2025-09-16 00:00:00,Accessories,Wallet,West,Consumer,8,143.69,1149.52,289.91
+258,2025-05-12 00:00:00,Office Supplies,Pen,West,Small Business,3,16.9,50.7,6.81
+259,2025-11-09 00:00:00,Office Supplies,File Folder,South,Consumer,7,415.23,2906.61,519.76
+260,2025-03-13 00:00:00,Electronics,Mouse,North,Consumer,8,168.56,1348.48,151.05
+261,2025-05-17 00:00:00,Office Supplies,Stapler,South,Corporate,6,157.95,947.7,218.65
+262,2025-05-01 00:00:00,Electronics,Keyboard,East,Small Business,1,337.22,337.22,56.1
+263,2025-03-02 00:00:00,Furniture,Table,East,Small Business,5,190.1,950.5,100
+264,2025-11-07 00:00:00,Furniture,Table,South,Corporate,6,213.76,1282.56,240.23
+265,2025-12-15 00:00:00,Accessories,Wallet,South,Consumer,2,267.5,535,97.39
+266,2025-10-08 00:00:00,Office Supplies,Notebook,North,Consumer,4,290.62,1162.48,101.67
+267,2025-12-15 00:00:00,Office Supplies,File Folder,West,Consumer,4,361.29,1445.16,248.87
+268,2025-09-20 00:00:00,Accessories,Backpack,West,Consumer,7,233.83,1636.81,105.47
+269,2025-05-11 00:00:00,Accessories,USB Cable,North,Corporate,1,375.44,375.44,73.05
+270,2025-02-02 00:00:00,Electronics,Mouse,East,Small Business,1,467.95,467.95,31.47
+271,2025-04-03 00:00:00,Accessories,Backpack,East,Corporate,3,385.26,1155.78,340.47
+272,2025-07-13 00:00:00,Accessories,USB Cable,West,Corporate,7,49.32,345.24,100.48
+273,2025-10-03 00:00:00,Furniture,Bookshelf,North,Consumer,7,269.13,1883.91,437
+274,2025-08-26 00:00:00,Furniture,Chair,North,Corporate,7,270.65,1894.55,484.7
+275,2025-05-22 00:00:00,Furniture,Table,East,Consumer,4,469.33,1877.32,434.14
+276,2025-01-09 00:00:00,Electronics,Laptop,West,Small Business,4,110.98,443.92,33.39
+277,2025-01-23 00:00:00,Electronics,Mouse,North,Consumer,7,225.09,1575.63,291.4
+278,2025-10-22 00:00:00,Electronics,Headphones,East,Consumer,6,292.96,1757.76,427.37
+279,2025-12-05 00:00:00,Office Supplies,Pen,East,Consumer,4,212.64,850.56,101.04
+280,2025-06-26 00:00:00,Furniture,Table,West,Consumer,7,395.04,2765.28,358.61
+281,2025-07-12 00:00:00,Accessories,Phone Stand,South,Corporate,3,379.66,1138.98,191.78
+282,2025-01-30 00:00:00,Furniture,Bookshelf,South,Corporate,7,484.22,3389.54,641.71
+283,2025-04-15 00:00:00,Furniture,Table,South,Corporate,6,326.89,1961.34,550.27
+284,2025-05-18 00:00:00,Office Supplies,Notebook,South,Consumer,7,340.1,2380.7,477.88
+285,2025-04-17 00:00:00,Electronics,Headphones,South,Corporate,6,158.56,951.36,263.76
+286,2025-09-03 00:00:00,Furniture,Desk,North,Small Business,4,350.86,1403.44,317.1
+287,2025-07-14 00:00:00,Accessories,Water Bottle,East,Corporate,8,271.49,2171.92,303.67
+288,2025-02-20 00:00:00,Office Supplies,Printer Paper,West,Corporate,8,383.2,3065.6,398.71
+289,2025-01-24 00:00:00,Furniture,Bookshelf,East,Corporate,4,373.21,1492.84,80.7
+290,2025-06-18 00:00:00,Accessories,USB Cable,South,Consumer,4,196.12,784.48,202.66
+291,2025-09-08 00:00:00,Accessories,Wallet,East,Corporate,8,235.81,1886.48,439.91
+292,2025-10-07 00:00:00,Office Supplies,Pen,South,Small Business,8,100.18,801.44,218.27
+293,2025-12-09 00:00:00,Electronics,Monitor,North,Consumer,1,384.53,384.53,58.87
+294,2025-04-22 00:00:00,Furniture,Chair,South,Consumer,8,192.87,1542.96,315.47
+295,2025-09-30 00:00:00,Accessories,Phone Stand,North,Consumer,7,15.81,110.67,20.18
+296,2025-09-15 00:00:00,Office Supplies,File Folder,East,Consumer,7,405.02,2835.14,786.59
+297,2025-04-09 00:00:00,Electronics,Laptop,South,Consumer,5,409.46,2047.3,239.19
+298,2025-08-24 00:00:00,Accessories,Backpack,East,Corporate,4,495.21,1980.84,210.89
+299,2025-07-14 00:00:00,Electronics,Laptop,North,Corporate,7,280.82,1965.74,125.86
+300,2025-08-11 00:00:00,Electronics,Headphones,North,Corporate,6,287.27,1723.62,455.88
+301,2025-04-19 00:00:00,Electronics,Monitor,North,Consumer,8,142.84,1142.72,321.15
+302,2025-06-11 00:00:00,Office Supplies,File Folder,North,Consumer,1,481.12,481.12,94.66
+303,2025-10-16 00:00:00,Accessories,Backpack,East,Consumer,4,287.68,1150.72,301.9
+304,2025-02-10 00:00:00,Office Supplies,Stapler,South,Small Business,6,36.31,217.86,34.7
+305,2025-01-16 00:00:00,Electronics,Keyboard,West,Corporate,5,393.94,1969.7,320.35
+306,2025-04-06 00:00:00,Furniture,Bookshelf,West,Corporate,7,51.99,363.93,74.48
+307,2025-03-20 00:00:00,Furniture,Chair,North,Corporate,7,358.72,2511.04,523.49
+308,2025-02-16 00:00:00,Accessories,USB Cable,East,Consumer,1,472.05,472.05,76.09
+309,2025-04-06 00:00:00,Office Supplies,Notebook,South,Consumer,7,229.93,1609.51,303.69
+310,2025-07-01 00:00:00,Accessories,Backpack,North,Consumer,2,302.49,604.98,148.89
+311,2025-07-18 00:00:00,Accessories,Backpack,East,Corporate,2,365.17,730.34,138.68
+312,2025-07-14 00:00:00,Furniture,Sofa,South,Small Business,3,78.03,234.09,29.33
+313,2025-08-11 00:00:00,Accessories,Water Bottle,North,Consumer,5,216.34,1081.7,185.03
+314,2025-11-17 00:00:00,Electronics,Keyboard,East,Consumer,8,300.97,2407.76,238.1
+315,2025-07-22 00:00:00,Electronics,Headphones,East,Consumer,6,422.39,2534.34,367.41
+316,2025-11-30 00:00:00,Office Supplies,Stapler,East,Corporate,3,157.21,471.63,94.7
+317,2025-07-23 00:00:00,Furniture,Table,East,Consumer,6,152.81,916.86,205.14
+318,2025-07-12 00:00:00,Accessories,Wallet,South,Corporate,5,410.08,2050.4,303.94
+319,2025-10-07 00:00:00,Electronics,Monitor,South,Small Business,3,344.04,1032.12,193.55
+320,2025-12-21 00:00:00,Accessories,Water Bottle,West,Corporate,2,411.29,822.58,204.75
+321,2025-06-05 00:00:00,Accessories,Phone Stand,South,Small Business,4,133.81,535.24,47.39
+322,2025-11-03 00:00:00,Accessories,Phone Stand,North,Corporate,8,295.3,2362.4,433.72
+323,2025-12-26 00:00:00,Accessories,Wallet,North,Corporate,2,63.59,127.18,14.25
+324,2025-11-27 00:00:00,Office Supplies,Pen,North,Small Business,7,483.74,3386.18,450.02
+325,2025-05-13 00:00:00,Accessories,Backpack,North,Consumer,4,260.23,1040.92,187.05
+326,2025-08-26 00:00:00,Furniture,Table,East,Corporate,3,179.03,537.09,30.15
+327,2025-03-01 00:00:00,Electronics,Keyboard,West,Consumer,3,180.68,542.04,73.59
+328,2025-09-01 00:00:00,Furniture,Sofa,West,Corporate,2,224.7,449.4,100.75
+329,2025-12-30 00:00:00,Office Supplies,Notebook,East,Consumer,2,21.07,42.14,5.72
+330,2025-03-31 00:00:00,Electronics,Headphones,South,Small Business,3,172.18,516.54,80.89
+331,2025-04-05 00:00:00,Accessories,Water Bottle,West,Small Business,3,323.83,971.49,153.53
+332,2025-10-31 00:00:00,Electronics,Monitor,South,Corporate,7,200.53,1403.71,317.5
+333,2025-02-22 00:00:00,Furniture,Bookshelf,North,Small Business,3,189.24,567.72,56.36
+334,2025-11-24 00:00:00,Electronics,Keyboard,West,Small Business,6,302.52,1815.12,368.16
+335,2025-11-13 00:00:00,Electronics,Keyboard,East,Corporate,3,408.73,1226.19,277.73
+336,2025-03-10 00:00:00,Office Supplies,File Folder,North,Small Business,6,67.75,406.5,51.36
+337,2025-07-18 00:00:00,Furniture,Bookshelf,South,Small Business,7,302.25,2115.75,409.82
+338,2025-10-03 00:00:00,Accessories,Water Bottle,West,Small Business,3,281.91,845.73,145.81
+339,2025-11-14 00:00:00,Furniture,Desk,East,Corporate,1,434.11,434.11,125.01
+340,2025-10-15 00:00:00,Accessories,Water Bottle,South,Corporate,8,210.48,1683.84,291.19
+341,2025-10-17 00:00:00,Accessories,Phone Stand,South,Consumer,1,399.98,399.98,42.05
+342,2025-05-28 00:00:00,Electronics,Keyboard,South,Small Business,3,392.56,1177.68,225.42
+343,2025-02-28 00:00:00,Accessories,Wallet,North,Small Business,5,389.81,1949.05,498.61
+344,2025-08-14 00:00:00,Office Supplies,File Folder,North,Small Business,4,494.99,1979.96,149.69
+345,2025-05-15 00:00:00,Furniture,Bookshelf,North,Corporate,6,432.48,2594.88,186.17
+346,2025-10-29 00:00:00,Electronics,Headphones,South,Small Business,6,431.91,2591.46,524.94
+347,2025-04-16 00:00:00,Accessories,Water Bottle,South,Consumer,1,289.34,289.34,52.97
+348,2025-10-21 00:00:00,Furniture,Bookshelf,East,Corporate,5,476.67,2383.35,425.68
+349,2025-05-22 00:00:00,Electronics,Headphones,West,Consumer,3,353.7,1061.1,88.25
+350,2025-07-21 00:00:00,Furniture,Bookshelf,South,Small Business,8,79.66,637.28,132.62
+351,2025-11-21 00:00:00,Accessories,Phone Stand,West,Consumer,2,207.4,414.8,98.49
+352,2025-10-25 00:00:00,Office Supplies,Stapler,West,Corporate,1,435.76,435.76,114.08
+353,2025-10-01 00:00:00,Electronics,Mouse,East,Consumer,7,116.74,817.18,128.63
+354,2025-05-26 00:00:00,Furniture,Table,East,Corporate,6,278.18,1669.08,137.95
+355,2025-02-20 00:00:00,Accessories,USB Cable,North,Consumer,8,17.98,143.84,40.61
+356,2025-08-08 00:00:00,Furniture,Table,West,Consumer,4,497.89,1991.56,552.36
+357,2025-12-02 00:00:00,Office Supplies,Pen,East,Consumer,6,132.69,796.14,113.82
+358,2025-06-06 00:00:00,Furniture,Chair,West,Small Business,4,220.32,881.28,64.16
+359,2025-02-09 00:00:00,Electronics,Laptop,South,Corporate,3,300.9,902.7,162.36
+360,2025-06-25 00:00:00,Accessories,Backpack,North,Small Business,2,494.2,988.4,153.77
+361,2025-07-16 00:00:00,Furniture,Table,North,Consumer,2,368.07,736.14,55.66
+362,2025-07-15 00:00:00,Office Supplies,Printer Paper,East,Consumer,3,324.37,973.11,213.39
+363,2025-11-29 00:00:00,Electronics,Monitor,North,Small Business,3,225.65,676.95,156.11
+364,2025-02-14 00:00:00,Furniture,Table,West,Consumer,2,78.61,157.22,12.7
+365,2025-03-13 00:00:00,Accessories,USB Cable,West,Corporate,4,145.71,582.84,41.42
+366,2025-09-23 00:00:00,Office Supplies,Notebook,East,Consumer,4,376.44,1505.76,186.54
+367,2025-02-27 00:00:00,Electronics,Headphones,West,Corporate,4,254.8,1019.2,202.29
+368,2025-07-18 00:00:00,Electronics,Keyboard,East,Consumer,7,189.05,1323.35,292.11
+369,2025-02-04 00:00:00,Accessories,Backpack,North,Small Business,1,138.47,138.47,8.3
+370,2025-12-31 00:00:00,Electronics,Mouse,East,Small Business,7,217.55,1522.85,229.29
+371,2025-02-10 00:00:00,Furniture,Bookshelf,North,Corporate,4,487.41,1949.64,173.21
+372,2025-12-24 00:00:00,Office Supplies,Stapler,North,Corporate,7,367.68,2573.76,673.34
+373,2025-03-01 00:00:00,Electronics,Headphones,North,Corporate,8,310.03,2480.24,158.13
+374,2025-03-12 00:00:00,Furniture,Chair,North,Small Business,1,90.28,90.28,26.02
+375,2025-05-18 00:00:00,Office Supplies,Pen,East,Consumer,2,388,776,44.5
+376,2025-12-31 00:00:00,Accessories,USB Cable,North,Corporate,2,253.11,506.22,89.95
+377,2025-03-22 00:00:00,Electronics,Mouse,South,Corporate,5,388.93,1944.65,531.99
+378,2025-01-07 00:00:00,Electronics,Headphones,North,Consumer,4,32.53,130.12,18.35
+379,2025-12-02 00:00:00,Furniture,Desk,North,Small Business,7,120.01,840.07,94.14
+380,2025-07-10 00:00:00,Office Supplies,Printer Paper,North,Small Business,2,256,512,141.05
+381,2025-02-05 00:00:00,Furniture,Desk,North,Corporate,8,434.36,3474.88,845.72
+382,2025-08-22 00:00:00,Office Supplies,Printer Paper,North,Small Business,1,190.77,190.77,23.45
+383,2025-07-08 00:00:00,Office Supplies,File Folder,South,Corporate,8,498.92,3991.36,973.78
+384,2025-01-13 00:00:00,Furniture,Desk,North,Corporate,4,275.36,1101.44,230.18
+385,2025-07-12 00:00:00,Electronics,Keyboard,North,Small Business,5,60.94,304.7,55.59
+386,2025-03-14 00:00:00,Furniture,Table,West,Consumer,5,55.58,277.9,77.9
+387,2025-02-13 00:00:00,Accessories,USB Cable,West,Small Business,2,257.66,515.32,107.86
+388,2025-12-06 00:00:00,Accessories,Backpack,North,Corporate,3,126.02,378.06,43.57
+389,2025-08-20 00:00:00,Office Supplies,Stapler,East,Corporate,5,124.47,622.35,177.92
+390,2025-02-24 00:00:00,Furniture,Sofa,North,Consumer,3,230.29,690.87,88.78
+391,2025-08-20 00:00:00,Electronics,Monitor,East,Consumer,5,237.04,1185.2,311.85
+392,2025-12-23 00:00:00,Electronics,Headphones,East,Small Business,1,115.36,115.36,30.47
+393,2025-07-22 00:00:00,Furniture,Chair,South,Corporate,1,341.82,341.82,39.32
+394,2025-10-12 00:00:00,Furniture,Chair,West,Corporate,4,56.42,225.68,17.03
+395,2025-04-24 00:00:00,Furniture,Chair,North,Consumer,3,107.09,321.27,48.24
+396,2025-01-12 00:00:00,Electronics,Monitor,East,Consumer,2,106.9,213.8,45.22
+397,2025-01-22 00:00:00,Furniture,Chair,East,Consumer,8,34.81,278.48,78.26
+398,2025-07-15 00:00:00,Accessories,Phone Stand,West,Consumer,7,94.68,662.76,68.71
+399,2025-03-18 00:00:00,Furniture,Bookshelf,East,Corporate,1,310.91,310.91,63.5
+400,2025-09-03 00:00:00,Office Supplies,Stapler,West,Small Business,1,52.98,52.98,7.72
+401,2025-10-06 00:00:00,Accessories,Water Bottle,South,Small Business,1,494.81,494.81,121.47
+402,2025-10-17 00:00:00,Office Supplies,Stapler,West,Corporate,6,200.31,1201.86,114.12
+403,2025-05-24 00:00:00,Office Supplies,File Folder,South,Consumer,1,406.24,406.24,68.22
+404,2025-02-21 00:00:00,Office Supplies,File Folder,South,Consumer,4,331.86,1327.44,154.82
+405,2025-03-30 00:00:00,Electronics,Headphones,West,Corporate,3,125.91,377.73,48.92
+406,2025-12-25 00:00:00,Office Supplies,File Folder,North,Small Business,6,474.3,2845.8,543.27
+407,2025-09-09 00:00:00,Furniture,Table,East,Consumer,1,54.23,54.23,5.87
+408,2025-06-19 00:00:00,Furniture,Chair,West,Consumer,4,405.16,1620.64,219.09
+409,2025-03-17 00:00:00,Furniture,Bookshelf,North,Consumer,3,389.44,1168.32,305.66
+410,2025-12-06 00:00:00,Office Supplies,Notebook,East,Small Business,7,297.15,2080.05,279.02
+411,2025-08-12 00:00:00,Office Supplies,Pen,South,Small Business,8,328.1,2624.8,245.55
+412,2025-06-07 00:00:00,Office Supplies,Pen,South,Corporate,5,72.4,362,84.06
+413,2025-11-05 00:00:00,Accessories,Wallet,North,Consumer,6,461.31,2767.86,807.89
+414,2025-03-14 00:00:00,Furniture,Sofa,North,Corporate,6,375.22,2251.32,246.52
+415,2025-12-10 00:00:00,Office Supplies,Pen,North,Small Business,6,228.85,1373.1,159.7
+416,2025-02-25 00:00:00,Furniture,Chair,East,Corporate,1,33.59,33.59,5.36
+417,2025-07-13 00:00:00,Accessories,Water Bottle,West,Corporate,6,277.55,1665.3,125.49
+418,2025-08-20 00:00:00,Accessories,Wallet,South,Consumer,2,401.61,803.22,46.87
+419,2025-02-07 00:00:00,Electronics,Keyboard,East,Consumer,6,93.35,560.1,80.58
+420,2025-11-01 00:00:00,Electronics,Monitor,North,Corporate,8,355.21,2841.68,448.5
+421,2025-01-28 00:00:00,Furniture,Sofa,West,Consumer,2,172.24,344.48,101.14
+422,2025-05-25 00:00:00,Accessories,Wallet,East,Small Business,5,126.4,632,39.44
+423,2025-01-02 00:00:00,Accessories,Water Bottle,North,Corporate,7,52.94,370.58,94.86
+424,2025-04-16 00:00:00,Accessories,Water Bottle,North,Consumer,3,322.71,968.13,284.89
+425,2025-08-30 00:00:00,Accessories,Backpack,East,Corporate,8,448.49,3587.92,417.1
+426,2025-07-09 00:00:00,Accessories,Water Bottle,East,Corporate,3,228.43,685.29,79.37
+427,2025-10-16 00:00:00,Accessories,USB Cable,South,Corporate,1,84.05,84.05,18.84
+428,2025-07-31 00:00:00,Electronics,Laptop,East,Small Business,4,281.26,1125.04,292.73
+429,2025-05-01 00:00:00,Accessories,Wallet,West,Small Business,8,156.44,1251.52,186.1
+430,2025-08-18 00:00:00,Electronics,Monitor,South,Consumer,3,475.04,1425.12,130.81
+431,2025-08-05 00:00:00,Furniture,Desk,South,Consumer,2,494.26,988.52,157.02
+432,2025-02-04 00:00:00,Furniture,Sofa,East,Corporate,2,200.17,400.34,59.79
+433,2025-12-25 00:00:00,Office Supplies,Printer Paper,West,Consumer,7,65.13,455.91,39.85
+434,2025-10-02 00:00:00,Electronics,Laptop,North,Corporate,6,440.17,2641.02,306.45
+435,2025-03-30 00:00:00,Accessories,Wallet,West,Consumer,5,207.46,1037.3,212.19
+436,2025-12-20 00:00:00,Accessories,Backpack,West,Corporate,4,34.15,136.6,23.06
+437,2025-06-05 00:00:00,Office Supplies,Printer Paper,North,Corporate,5,147.37,736.85,127.4
+438,2025-08-15 00:00:00,Electronics,Headphones,South,Corporate,6,142.02,852.12,131.39
+439,2025-07-28 00:00:00,Electronics,Headphones,West,Consumer,8,382.15,3057.2,815.65
+440,2025-06-09 00:00:00,Electronics,Monitor,South,Consumer,7,76.47,535.29,140.69
+441,2025-01-30 00:00:00,Electronics,Headphones,South,Consumer,4,26.2,104.8,6.56
+442,2025-08-26 00:00:00,Office Supplies,Pen,East,Corporate,7,321.35,2249.45,182.13
+443,2025-11-01 00:00:00,Electronics,Headphones,East,Corporate,8,97.02,776.16,207.72
+444,2025-12-19 00:00:00,Office Supplies,Printer Paper,South,Corporate,2,149.68,299.36,43.9
+445,2025-11-28 00:00:00,Furniture,Sofa,South,Consumer,4,342.07,1368.28,160.46
+446,2025-01-05 00:00:00,Accessories,Wallet,North,Small Business,8,456.64,3653.12,773.89
+447,2025-06-06 00:00:00,Electronics,Headphones,East,Small Business,5,217.67,1088.35,156.85
+448,2025-08-27 00:00:00,Office Supplies,Stapler,East,Consumer,5,341.83,1709.15,437.68
+449,2025-09-19 00:00:00,Accessories,Wallet,North,Consumer,6,285.11,1710.66,339.47
+450,2025-02-02 00:00:00,Office Supplies,Printer Paper,North,Corporate,6,494.3,2965.8,623.26
+451,2025-03-18 00:00:00,Office Supplies,Printer Paper,East,Consumer,4,450.85,1803.4,453.3
+452,2025-01-14 00:00:00,Accessories,USB Cable,South,Small Business,8,498.76,3990.08,458.29
+453,2025-01-19 00:00:00,Accessories,Phone Stand,West,Small Business,4,178.15,712.6,162.72
+454,2025-12-03 00:00:00,Accessories,USB Cable,East,Consumer,3,153.95,461.85,77.45
+455,2025-06-21 00:00:00,Office Supplies,File Folder,South,Small Business,2,118.9,237.8,25.17
+456,2025-05-14 00:00:00,Office Supplies,Stapler,East,Corporate,5,237.24,1186.2,94.24
+457,2025-04-10 00:00:00,Electronics,Monitor,North,Corporate,2,435.07,870.14,126.53
+458,2025-03-12 00:00:00,Office Supplies,Stapler,North,Consumer,4,177.91,711.64,211.21
+459,2025-04-03 00:00:00,Accessories,Water Bottle,East,Small Business,2,248.91,497.82,103.43
+460,2025-08-20 00:00:00,Furniture,Bookshelf,North,Consumer,5,112.6,563,137.03
+461,2025-11-11 00:00:00,Furniture,Table,North,Consumer,7,320.41,2242.87,338.33
+462,2025-10-01 00:00:00,Accessories,Phone Stand,North,Consumer,4,368.02,1472.08,423.25
+463,2025-12-13 00:00:00,Office Supplies,File Folder,South,Consumer,1,317.08,317.08,35.58
+464,2025-07-16 00:00:00,Office Supplies,Printer Paper,South,Consumer,5,91.84,459.2,117.54
+465,2025-09-24 00:00:00,Office Supplies,Printer Paper,West,Small Business,6,222.5,1335,295.96
+466,2025-04-07 00:00:00,Furniture,Bookshelf,West,Corporate,3,474.56,1423.68,397.99
+467,2025-03-09 00:00:00,Accessories,Backpack,South,Consumer,4,369.7,1478.8,291.95
+468,2025-11-30 00:00:00,Furniture,Chair,East,Small Business,1,193.84,193.84,40.72
+469,2025-02-25 00:00:00,Electronics,Monitor,North,Small Business,1,33.64,33.64,2.66
+470,2025-05-10 00:00:00,Accessories,Phone Stand,North,Small Business,8,353.92,2831.36,287.03
+471,2025-02-21 00:00:00,Electronics,Keyboard,West,Small Business,5,315.17,1575.85,354.85
+472,2025-02-28 00:00:00,Accessories,Backpack,North,Corporate,2,253.89,507.78,102.7
+473,2025-12-27 00:00:00,Office Supplies,File Folder,South,Corporate,7,154.72,1083.04,64.82
+474,2025-05-01 00:00:00,Accessories,Water Bottle,West,Corporate,1,16.25,16.25,1.17
+475,2025-02-16 00:00:00,Electronics,Monitor,West,Consumer,2,364.55,729.1,54.92
+476,2025-05-16 00:00:00,Office Supplies,Pen,West,Corporate,8,34.54,276.32,69.99
+477,2025-06-10 00:00:00,Electronics,Keyboard,East,Small Business,7,371.88,2603.16,191.98
+478,2025-11-28 00:00:00,Electronics,Laptop,South,Small Business,3,171.04,513.12,140.41
+479,2025-04-04 00:00:00,Office Supplies,Notebook,East,Corporate,2,206.38,412.76,119.94
+480,2025-11-29 00:00:00,Office Supplies,Stapler,West,Corporate,3,65.4,196.2,43.96
+481,2025-10-30 00:00:00,Electronics,Headphones,North,Corporate,8,403.11,3224.88,708.18
+482,2025-11-10 00:00:00,Furniture,Sofa,West,Corporate,1,432.66,432.66,116.81
+483,2025-07-30 00:00:00,Furniture,Table,West,Consumer,8,32.53,260.24,30.03
+484,2025-06-23 00:00:00,Office Supplies,Notebook,South,Small Business,2,222.1,444.2,102.9
+485,2025-10-13 00:00:00,Accessories,USB Cable,West,Consumer,1,15.71,15.71,4.46
+486,2025-09-09 00:00:00,Accessories,Phone Stand,South,Consumer,6,128.04,768.24,224.74
+487,2025-11-26 00:00:00,Electronics,Monitor,South,Small Business,7,207.61,1453.27,158.04
+488,2025-09-13 00:00:00,Accessories,Phone Stand,West,Consumer,8,164.87,1318.96,389.31
+489,2025-01-19 00:00:00,Electronics,Laptop,West,Corporate,1,414.7,414.7,102.82
+490,2025-12-10 00:00:00,Office Supplies,File Folder,South,Small Business,8,475.67,3805.36,535.93
+491,2025-10-14 00:00:00,Electronics,Headphones,West,Corporate,8,361.16,2889.28,406.88
+492,2025-04-24 00:00:00,Accessories,Backpack,North,Small Business,1,177.26,177.26,45.64
+493,2025-02-24 00:00:00,Office Supplies,File Folder,East,Small Business,1,449.47,449.47,77.81
+494,2025-04-11 00:00:00,Accessories,Backpack,East,Small Business,4,69.17,276.68,72.78
+495,2025-06-23 00:00:00,Furniture,Table,South,Small Business,2,381,762,46.96
+496,2025-10-29 00:00:00,Electronics,Mouse,West,Small Business,3,482.29,1446.87,73.91
+497,2025-09-05 00:00:00,Electronics,Monitor,West,Small Business,3,348.99,1046.97,97.8
+498,2025-11-04 00:00:00,Furniture,Chair,West,Small Business,6,257.01,1542.06,225.4
+499,2025-05-31 00:00:00,Furniture,Bookshelf,West,Corporate,8,404.35,3234.8,273.49
+500,2025-10-11 00:00:00,Office Supplies,File Folder,East,Small Business,4,108.44,433.76,89.37
+501,2025-11-29 00:00:00,Office Supplies,Printer Paper,South,Small Business,3,256.91,770.73,172.32
+502,2025-09-03 00:00:00,Office Supplies,Notebook,East,Small Business,7,340.38,2382.66,651.58
+503,2025-02-24 00:00:00,Office Supplies,Stapler,North,Small Business,1,196.63,196.63,12.44
+504,2025-05-27 00:00:00,Electronics,Headphones,East,Consumer,5,81.75,408.75,26.78
+505,2025-08-20 00:00:00,Office Supplies,Pen,North,Corporate,2,311.89,623.78,136.53
+506,2025-09-19 00:00:00,Furniture,Sofa,West,Consumer,5,349.54,1747.7,107.91
+507,2025-06-10 00:00:00,Accessories,Phone Stand,West,Small Business,1,16.35,16.35,1.84
+508,2025-10-07 00:00:00,Accessories,Water Bottle,East,Small Business,4,390.31,1561.24,454.43
+509,2025-02-08 00:00:00,Office Supplies,Stapler,South,Small Business,3,481.61,1444.83,337.76
+510,2025-05-23 00:00:00,Electronics,Mouse,North,Corporate,5,73.73,368.65,72.25
+511,2025-12-30 00:00:00,Office Supplies,Notebook,East,Corporate,3,29.57,88.71,25.03
+512,2025-10-21 00:00:00,Electronics,Monitor,East,Corporate,6,45.71,274.26,62.24
+513,2025-03-23 00:00:00,Furniture,Desk,North,Small Business,7,276.11,1932.77,291.57
+514,2025-06-19 00:00:00,Office Supplies,Pen,South,Small Business,6,186.79,1120.74,117.24
+515,2025-12-09 00:00:00,Accessories,Wallet,North,Consumer,6,228.38,1370.28,378.37
+516,2025-02-28 00:00:00,Furniture,Chair,East,Corporate,7,135.73,950.11,219.47
+517,2025-09-18 00:00:00,Electronics,Monitor,East,Small Business,8,248.53,1988.24,246.76
+518,2025-03-27 00:00:00,Furniture,Bookshelf,North,Consumer,1,317.2,317.2,32.57
+519,2025-10-03 00:00:00,Furniture,Table,North,Consumer,7,326.81,2287.67,651.84
+520,2025-06-19 00:00:00,Furniture,Chair,West,Small Business,1,52.89,52.89,3.36
+521,2025-04-27 00:00:00,Office Supplies,File Folder,North,Small Business,5,209.74,1048.7,170.71
+522,2025-07-19 00:00:00,Accessories,Phone Stand,East,Consumer,2,272.07,544.14,114.46
+523,2025-02-07 00:00:00,Electronics,Monitor,North,Small Business,6,464.74,2788.44,213.41
+524,2025-08-13 00:00:00,Office Supplies,File Folder,North,Corporate,7,203.61,1425.27,306.69
+525,2025-07-20 00:00:00,Accessories,Water Bottle,South,Consumer,5,480.47,2402.35,206.65
+526,2025-01-22 00:00:00,Office Supplies,Notebook,South,Consumer,1,290.63,290.63,43.16
+527,2025-06-26 00:00:00,Electronics,Keyboard,South,Small Business,4,212.2,848.8,179.51
+528,2025-11-12 00:00:00,Furniture,Desk,South,Consumer,5,105.22,526.1,50.16
+529,2025-10-09 00:00:00,Electronics,Monitor,West,Small Business,2,152.42,304.84,20.38
+530,2025-07-02 00:00:00,Electronics,Headphones,West,Corporate,3,338.93,1016.79,110.46
+531,2025-06-12 00:00:00,Office Supplies,File Folder,North,Consumer,8,230.82,1846.56,376.86
+532,2025-10-18 00:00:00,Office Supplies,File Folder,South,Small Business,6,405.77,2434.62,705.22
+533,2025-04-24 00:00:00,Furniture,Chair,East,Consumer,7,145.57,1018.99,142.53
+534,2025-07-03 00:00:00,Office Supplies,Stapler,West,Corporate,5,248.62,1243.1,95.98
+535,2025-04-11 00:00:00,Electronics,Keyboard,South,Small Business,5,369.44,1847.2,381.73
+536,2025-10-24 00:00:00,Electronics,Laptop,North,Small Business,7,386.91,2708.37,279.48
+537,2025-10-04 00:00:00,Electronics,Monitor,East,Small Business,8,330.41,2643.28,230.38
+538,2025-08-26 00:00:00,Accessories,Water Bottle,East,Consumer,2,204.42,408.84,71.77
+539,2025-03-13 00:00:00,Furniture,Sofa,South,Small Business,8,88.02,704.16,134.91
+540,2025-04-23 00:00:00,Furniture,Table,East,Consumer,8,123.56,988.48,114.75
+541,2025-07-04 00:00:00,Furniture,Chair,South,Small Business,7,240.14,1680.98,275.11
+542,2025-12-27 00:00:00,Electronics,Laptop,East,Consumer,5,419.09,2095.45,242.71
+543,2025-10-28 00:00:00,Furniture,Table,West,Corporate,2,263.16,526.32,75.83
+544,2025-06-26 00:00:00,Furniture,Sofa,West,Corporate,8,398.4,3187.2,866.26
+545,2025-03-26 00:00:00,Electronics,Monitor,South,Corporate,4,47.77,191.08,40.29
+546,2025-07-05 00:00:00,Furniture,Desk,South,Consumer,2,333.94,667.88,102.62
+547,2025-09-03 00:00:00,Office Supplies,Notebook,West,Small Business,8,113.24,905.92,81.82
+548,2025-03-07 00:00:00,Accessories,Backpack,South,Consumer,3,76.01,228.03,40.63
+549,2025-04-03 00:00:00,Furniture,Chair,South,Corporate,7,303.69,2125.83,405.82
+550,2025-08-18 00:00:00,Electronics,Keyboard,North,Consumer,8,434.98,3479.84,322.38
+551,2025-04-04 00:00:00,Accessories,Wallet,South,Small Business,5,92.18,460.9,102.04
+552,2025-07-13 00:00:00,Accessories,Wallet,North,Consumer,7,74.78,523.46,28.34
+553,2025-09-01 00:00:00,Accessories,Water Bottle,North,Consumer,1,440.1,440.1,80.48
+554,2025-03-08 00:00:00,Electronics,Laptop,West,Small Business,1,449.51,449.51,109.55
+555,2025-01-23 00:00:00,Accessories,Wallet,West,Corporate,7,122.45,857.15,214.78
+556,2025-03-10 00:00:00,Accessories,USB Cable,North,Corporate,5,243.8,1219,131.81
+557,2025-04-07 00:00:00,Electronics,Keyboard,West,Corporate,1,357.48,357.48,88.42
+558,2025-12-02 00:00:00,Electronics,Monitor,North,Corporate,4,347.01,1388.04,179.02
+559,2025-11-30 00:00:00,Office Supplies,Notebook,South,Corporate,5,138.04,690.2,127.01
+560,2025-07-23 00:00:00,Office Supplies,File Folder,East,Small Business,4,212.48,849.92,209.04
+561,2025-10-12 00:00:00,Accessories,Water Bottle,East,Small Business,8,134.35,1074.8,136.14
+562,2025-03-02 00:00:00,Office Supplies,Stapler,South,Small Business,4,228.83,915.32,205.79
+563,2025-07-25 00:00:00,Furniture,Chair,South,Small Business,6,402.42,2414.52,491.37
+564,2025-01-03 00:00:00,Electronics,Headphones,West,Small Business,2,413.4,826.8,138.83
+565,2025-04-24 00:00:00,Accessories,Backpack,North,Corporate,6,49.22,295.32,17.55
+566,2025-11-02 00:00:00,Accessories,Phone Stand,East,Small Business,1,473.4,473.4,120.74
+567,2025-12-03 00:00:00,Accessories,Phone Stand,North,Consumer,5,105.43,527.15,129.67
+568,2025-01-19 00:00:00,Furniture,Sofa,South,Small Business,6,127.24,763.44,38.23
+569,2025-06-30 00:00:00,Furniture,Chair,East,Corporate,7,208.67,1460.69,146.18
+570,2025-05-26 00:00:00,Electronics,Laptop,North,Small Business,6,180.26,1081.56,274.59
+571,2025-07-26 00:00:00,Furniture,Sofa,South,Corporate,1,137.94,137.94,20.94
+572,2025-05-31 00:00:00,Electronics,Monitor,North,Small Business,6,474.04,2844.24,713.15
+573,2025-08-15 00:00:00,Office Supplies,File Folder,East,Small Business,7,285.95,2001.65,485.38
+574,2025-01-15 00:00:00,Office Supplies,Stapler,West,Small Business,8,66.97,535.76,35.84
+575,2025-06-30 00:00:00,Furniture,Desk,East,Corporate,1,353.4,353.4,40.94
+576,2025-06-25 00:00:00,Office Supplies,Notebook,West,Small Business,2,281.73,563.46,53.32
+577,2025-05-18 00:00:00,Office Supplies,Printer Paper,South,Small Business,3,474.09,1422.27,314
+578,2025-05-04 00:00:00,Furniture,Table,South,Consumer,5,111.32,556.6,56.04
+579,2025-02-24 00:00:00,Furniture,Sofa,East,Consumer,2,460.89,921.78,201.83
+580,2025-01-22 00:00:00,Accessories,Wallet,North,Small Business,8,191.89,1535.12,197.81
+581,2025-05-24 00:00:00,Office Supplies,Stapler,South,Small Business,7,118.83,831.81,161.51
+582,2025-10-04 00:00:00,Electronics,Monitor,West,Corporate,1,256.21,256.21,38.03
+583,2025-09-23 00:00:00,Furniture,Table,North,Small Business,8,164.67,1317.36,68.64
+584,2025-07-05 00:00:00,Furniture,Table,North,Corporate,5,101.7,508.5,58.84
+585,2025-04-05 00:00:00,Office Supplies,Stapler,East,Corporate,8,217.73,1741.84,269.59
+586,2025-08-19 00:00:00,Office Supplies,Printer Paper,West,Corporate,3,289.99,869.97,256.48
+587,2025-10-12 00:00:00,Furniture,Chair,East,Consumer,7,429.59,3007.13,297.75
+588,2025-08-04 00:00:00,Furniture,Table,North,Consumer,8,75.89,607.12,165.94
+589,2025-10-15 00:00:00,Office Supplies,Stapler,East,Corporate,1,205.22,205.22,45.69
+590,2025-11-19 00:00:00,Electronics,Headphones,East,Corporate,2,230.43,460.86,61.6
+591,2025-01-11 00:00:00,Office Supplies,Printer Paper,East,Corporate,7,69.41,485.87,129.65
+592,2025-07-01 00:00:00,Furniture,Sofa,South,Corporate,6,339.86,2039.16,350.48
+593,2025-05-27 00:00:00,Accessories,Backpack,West,Small Business,8,319.54,2556.32,220.39
+594,2025-11-10 00:00:00,Furniture,Bookshelf,West,Small Business,7,425.96,2981.72,202.27
+595,2025-06-12 00:00:00,Furniture,Bookshelf,South,Corporate,5,358.11,1790.55,360.52
+596,2025-10-28 00:00:00,Accessories,USB Cable,West,Corporate,8,212.85,1702.8,163.42
+597,2025-05-09 00:00:00,Electronics,Headphones,South,Small Business,2,113.18,226.36,33.79
+598,2025-01-28 00:00:00,Electronics,Laptop,West,Small Business,1,387.76,387.76,70.18
+599,2025-03-21 00:00:00,Electronics,Laptop,East,Small Business,2,330.87,661.74,179.57
+600,2025-05-26 00:00:00,Office Supplies,Pen,South,Small Business,8,316.98,2535.84,210.02
+601,2025-07-02 00:00:00,Furniture,Chair,North,Small Business,6,433.48,2600.88,433.82
+602,2025-12-24 00:00:00,Office Supplies,File Folder,West,Consumer,3,299.51,898.53,147.48
+603,2025-09-04 00:00:00,Accessories,Wallet,East,Corporate,4,404.31,1617.24,259.51
+604,2025-06-05 00:00:00,Office Supplies,Stapler,East,Consumer,1,10.05,10.05,2.55
+605,2025-10-01 00:00:00,Furniture,Bookshelf,East,Corporate,1,347.01,347.01,60.03
+606,2025-05-30 00:00:00,Accessories,USB Cable,North,Corporate,4,400.42,1601.68,299.6
+607,2025-05-08 00:00:00,Furniture,Table,West,Corporate,3,360.32,1080.96,228.62
+608,2025-08-05 00:00:00,Accessories,Water Bottle,East,Consumer,4,263.14,1052.56,263.13
+609,2025-04-07 00:00:00,Office Supplies,Printer Paper,East,Corporate,2,99.38,198.76,24.33
+610,2025-12-25 00:00:00,Accessories,Wallet,West,Corporate,8,102.02,816.16,44.77
+611,2025-02-22 00:00:00,Electronics,Monitor,North,Consumer,5,141.91,709.55,162.34
+612,2025-01-08 00:00:00,Electronics,Headphones,North,Consumer,8,116.42,931.36,144.42
+613,2025-01-17 00:00:00,Accessories,USB Cable,West,Small Business,6,49.31,295.86,70.31
+614,2025-02-06 00:00:00,Furniture,Chair,East,Corporate,8,98.99,791.92,216.93
+615,2025-05-08 00:00:00,Office Supplies,Stapler,North,Consumer,7,387.9,2715.3,436.46
+616,2025-02-18 00:00:00,Electronics,Headphones,West,Small Business,4,241.68,966.72,213.03
+617,2025-01-22 00:00:00,Office Supplies,Printer Paper,South,Small Business,2,134.12,268.24,56.23
+618,2025-04-22 00:00:00,Furniture,Bookshelf,North,Small Business,2,125.62,251.24,39.83
+619,2025-03-03 00:00:00,Electronics,Headphones,East,Small Business,7,396.68,2776.76,145.04
+620,2025-11-02 00:00:00,Electronics,Monitor,West,Small Business,3,191.99,575.97,41.68
+621,2025-11-13 00:00:00,Furniture,Table,North,Small Business,6,466.12,2796.72,836.9
+622,2025-03-20 00:00:00,Electronics,Laptop,East,Small Business,2,71.66,143.32,15.5
+623,2025-12-19 00:00:00,Office Supplies,Stapler,South,Consumer,7,185.5,1298.5,108.66
+624,2025-05-31 00:00:00,Electronics,Mouse,West,Small Business,8,102.99,823.92,79.64
+625,2025-11-03 00:00:00,Office Supplies,Printer Paper,West,Corporate,3,43.75,131.25,11.65
+626,2025-01-01 00:00:00,Office Supplies,Printer Paper,East,Corporate,7,369.49,2586.43,700.23
+627,2025-02-02 00:00:00,Office Supplies,File Folder,South,Corporate,7,103.04,721.28,159.26
+628,2025-07-29 00:00:00,Furniture,Sofa,East,Corporate,6,64.13,384.78,69.57
+629,2025-01-17 00:00:00,Electronics,Laptop,South,Consumer,4,62.46,249.84,24.46
+630,2025-09-08 00:00:00,Electronics,Monitor,West,Small Business,5,34.05,170.25,17.91
+631,2025-09-09 00:00:00,Electronics,Laptop,South,Small Business,2,239.35,478.7,100.4
+632,2025-12-29 00:00:00,Office Supplies,File Folder,West,Corporate,1,413.59,413.59,48.16
+633,2025-04-21 00:00:00,Electronics,Laptop,East,Consumer,2,59.6,119.2,12.84
+634,2025-12-03 00:00:00,Accessories,Water Bottle,South,Small Business,4,289.31,1157.24,331.98
+635,2025-08-23 00:00:00,Accessories,Backpack,East,Small Business,7,442.58,3098.06,284.1
+636,2025-06-22 00:00:00,Furniture,Sofa,West,Small Business,3,271.61,814.83,162.95
+637,2025-07-31 00:00:00,Office Supplies,Printer Paper,East,Corporate,7,414.82,2903.74,379.99
+638,2025-10-09 00:00:00,Furniture,Sofa,South,Corporate,5,186.4,932,152.01
+639,2025-11-02 00:00:00,Accessories,Backpack,North,Corporate,1,263.63,263.63,78.65
+640,2025-04-20 00:00:00,Office Supplies,Notebook,East,Consumer,6,20.63,123.78,31.62
+641,2025-01-20 00:00:00,Office Supplies,File Folder,South,Consumer,8,184.27,1474.16,124.72
+642,2025-05-12 00:00:00,Office Supplies,File Folder,South,Consumer,5,55.03,275.15,41.26
+643,2025-03-30 00:00:00,Furniture,Chair,East,Corporate,8,414.6,3316.8,737.65
+644,2025-10-23 00:00:00,Electronics,Monitor,East,Consumer,7,48.45,339.15,21.7
+645,2025-03-03 00:00:00,Office Supplies,Printer Paper,West,Corporate,4,376.36,1505.44,394.98
+646,2025-09-26 00:00:00,Electronics,Mouse,North,Corporate,1,166.47,166.47,31.83
+647,2025-01-26 00:00:00,Office Supplies,File Folder,South,Consumer,7,485.81,3400.67,810.07
+648,2025-07-21 00:00:00,Electronics,Headphones,West,Corporate,3,74.77,224.31,15.84
+649,2025-02-13 00:00:00,Electronics,Monitor,West,Corporate,7,255.89,1791.23,436.09
+650,2025-04-12 00:00:00,Furniture,Desk,West,Small Business,8,203.71,1629.68,314.26
+651,2025-08-09 00:00:00,Furniture,Desk,North,Corporate,6,345.52,2073.12,402.19
+652,2025-06-28 00:00:00,Electronics,Mouse,West,Corporate,4,167.16,668.64,132.7
+653,2025-11-12 00:00:00,Electronics,Keyboard,South,Corporate,8,315.36,2522.88,403.95
+654,2025-02-13 00:00:00,Furniture,Desk,East,Consumer,2,372.39,744.78,82.49
+655,2025-12-22 00:00:00,Furniture,Bookshelf,North,Corporate,2,159.51,319.02,53.53
+656,2025-10-07 00:00:00,Office Supplies,Pen,South,Consumer,5,278.91,1394.55,286.94
+657,2025-12-06 00:00:00,Furniture,Chair,West,Small Business,1,135.17,135.17,8.79
+658,2025-08-27 00:00:00,Furniture,Sofa,East,Consumer,1,42.63,42.63,9.17
+659,2025-11-29 00:00:00,Office Supplies,Notebook,North,Corporate,7,123.27,862.89,125.27
+660,2025-09-30 00:00:00,Electronics,Keyboard,West,Small Business,2,101.34,202.68,35.5
+661,2025-05-07 00:00:00,Accessories,Wallet,North,Consumer,5,173.45,867.25,128.66
+662,2025-06-30 00:00:00,Furniture,Chair,East,Small Business,6,316.36,1898.16,207
+663,2025-01-16 00:00:00,Office Supplies,Notebook,East,Corporate,5,120.54,602.7,81.63
+664,2025-07-15 00:00:00,Accessories,Water Bottle,North,Small Business,4,214.49,857.96,165.78
+665,2025-10-05 00:00:00,Accessories,USB Cable,East,Corporate,3,111.31,333.93,28.27
+666,2025-12-28 00:00:00,Furniture,Desk,East,Small Business,3,220.73,662.19,183.59
+667,2025-02-04 00:00:00,Furniture,Sofa,South,Corporate,2,100.23,200.46,52.1
+668,2025-07-30 00:00:00,Furniture,Chair,East,Corporate,5,227.07,1135.35,321.81
+669,2025-03-09 00:00:00,Office Supplies,Pen,South,Consumer,3,22.84,68.52,20.32
+670,2025-04-29 00:00:00,Office Supplies,File Folder,South,Small Business,4,346.82,1387.28,193.96
+671,2025-11-29 00:00:00,Accessories,Water Bottle,West,Small Business,6,100.15,600.9,88.25
+672,2025-04-26 00:00:00,Accessories,Water Bottle,South,Consumer,1,210.21,210.21,61.42
+673,2025-12-10 00:00:00,Office Supplies,Stapler,South,Small Business,4,381.31,1525.24,101.48
+674,2025-06-16 00:00:00,Accessories,Wallet,West,Small Business,8,444.92,3559.36,558.42
+675,2025-06-10 00:00:00,Electronics,Monitor,West,Small Business,7,309.64,2167.48,510.7
+676,2025-08-22 00:00:00,Electronics,Monitor,North,Corporate,1,440.11,440.11,49.04
+677,2025-11-19 00:00:00,Accessories,Backpack,West,Small Business,1,103.03,103.03,16.47
+678,2025-08-05 00:00:00,Office Supplies,Printer Paper,West,Consumer,5,310.44,1552.2,98.78
+679,2025-09-14 00:00:00,Furniture,Table,West,Consumer,2,98.09,196.18,38.52
+680,2025-08-19 00:00:00,Furniture,Table,West,Corporate,1,97.65,97.65,19.29
+681,2025-06-15 00:00:00,Furniture,Table,North,Corporate,3,362,1086,87.84
+682,2025-09-26 00:00:00,Electronics,Mouse,East,Consumer,7,366.17,2563.19,753.06
+683,2025-03-29 00:00:00,Furniture,Table,West,Consumer,6,287.09,1722.54,370.14
+684,2025-12-31 00:00:00,Furniture,Desk,South,Consumer,1,215.6,215.6,27.46
+685,2025-03-09 00:00:00,Accessories,USB Cable,South,Consumer,4,11.73,46.92,11.32
+686,2025-10-06 00:00:00,Electronics,Mouse,West,Corporate,1,307.91,307.91,53.38
+687,2025-07-29 00:00:00,Furniture,Sofa,West,Corporate,8,48.91,391.28,78.27
+688,2025-11-18 00:00:00,Furniture,Sofa,East,Small Business,4,33.97,135.88,11.83
+689,2025-12-08 00:00:00,Office Supplies,Notebook,South,Consumer,5,172.24,861.2,61.94
+690,2025-12-11 00:00:00,Electronics,Mouse,South,Consumer,5,309.43,1547.15,344.83
+691,2025-02-17 00:00:00,Furniture,Table,East,Consumer,5,168.18,840.9,230.73
+692,2025-08-30 00:00:00,Electronics,Mouse,North,Corporate,3,69.79,209.37,55.45
+693,2025-04-18 00:00:00,Office Supplies,File Folder,West,Small Business,4,309.91,1239.64,95.86
+694,2025-11-08 00:00:00,Electronics,Mouse,East,Corporate,6,137.23,823.38,159.56
+695,2025-11-20 00:00:00,Office Supplies,Pen,West,Small Business,8,251.33,2010.64,190.96
+696,2025-03-02 00:00:00,Furniture,Bookshelf,South,Consumer,1,237.79,237.79,59.25
+697,2025-01-24 00:00:00,Furniture,Sofa,West,Corporate,6,181.33,1087.98,273.64
+698,2025-05-25 00:00:00,Furniture,Chair,South,Small Business,5,397.2,1986,252.11
+699,2025-06-20 00:00:00,Office Supplies,Notebook,North,Small Business,6,204.06,1224.36,235.36
+700,2025-06-23 00:00:00,Electronics,Headphones,South,Corporate,8,458.92,3671.36,915.32
+701,2025-08-24 00:00:00,Furniture,Table,South,Small Business,6,236.61,1419.66,359.94
+702,2025-12-14 00:00:00,Electronics,Monitor,East,Small Business,6,282.04,1692.24,92.53
+703,2025-05-24 00:00:00,Office Supplies,Printer Paper,North,Consumer,1,176.18,176.18,25.34
+704,2025-11-01 00:00:00,Furniture,Sofa,West,Consumer,2,433.65,867.3,206.32
+705,2025-02-14 00:00:00,Office Supplies,Notebook,East,Corporate,8,439.75,3518,502.71
+706,2025-02-27 00:00:00,Office Supplies,Pen,East,Consumer,6,394.62,2367.72,578.78
+707,2025-09-14 00:00:00,Electronics,Mouse,North,Corporate,3,103.2,309.6,86.97
+708,2025-09-22 00:00:00,Office Supplies,Printer Paper,South,Consumer,3,110.54,331.62,19.61
+709,2025-06-09 00:00:00,Accessories,Wallet,North,Consumer,1,346.66,346.66,68.84
+710,2025-02-22 00:00:00,Electronics,Keyboard,West,Consumer,5,21.02,105.1,25.18
+711,2025-05-27 00:00:00,Furniture,Bookshelf,South,Consumer,5,270.82,1354.1,329.31
+712,2025-05-21 00:00:00,Electronics,Keyboard,South,Consumer,2,17.48,34.96,7.19
+713,2025-06-13 00:00:00,Electronics,Headphones,East,Small Business,5,79.36,396.8,89.71
+714,2025-02-06 00:00:00,Office Supplies,File Folder,South,Consumer,5,310.5,1552.5,209.1
+715,2025-08-30 00:00:00,Accessories,Backpack,South,Consumer,1,61.9,61.9,3.93
+716,2025-11-02 00:00:00,Accessories,Phone Stand,South,Small Business,8,311.99,2495.92,319.75
+717,2025-10-18 00:00:00,Furniture,Sofa,North,Corporate,3,55.53,166.59,41.75
+718,2025-12-17 00:00:00,Accessories,Backpack,West,Corporate,8,240.57,1924.56,552.08
+719,2025-07-20 00:00:00,Furniture,Sofa,East,Corporate,3,352.81,1058.43,228.93
+720,2025-02-03 00:00:00,Office Supplies,Stapler,West,Consumer,8,65.31,522.48,88.65
+721,2025-10-22 00:00:00,Furniture,Bookshelf,East,Small Business,3,258.9,776.7,117.61
+722,2025-09-30 00:00:00,Electronics,Keyboard,North,Corporate,8,206.4,1651.2,253.23
+723,2025-07-16 00:00:00,Furniture,Sofa,South,Corporate,2,176.95,353.9,89.71
+724,2025-12-22 00:00:00,Accessories,Phone Stand,East,Small Business,4,94.81,379.24,82.45
+725,2025-10-12 00:00:00,Accessories,Backpack,West,Corporate,2,412.79,825.58,77.64
+726,2025-11-02 00:00:00,Accessories,Backpack,North,Small Business,7,170.43,1193.01,252.02
+727,2025-10-25 00:00:00,Electronics,Laptop,South,Consumer,1,380.97,380.97,81.99
+728,2025-11-12 00:00:00,Accessories,Wallet,East,Corporate,8,105.88,847.04,186.67
+729,2025-06-26 00:00:00,Office Supplies,Printer Paper,East,Corporate,2,295.54,591.08,119.91
+730,2025-07-09 00:00:00,Accessories,Water Bottle,East,Consumer,1,10.41,10.41,1.98
+731,2025-05-01 00:00:00,Office Supplies,Notebook,East,Consumer,7,354.09,2478.63,368.24
+732,2025-08-11 00:00:00,Office Supplies,Stapler,West,Corporate,4,334.62,1338.48,225.83
+733,2025-08-02 00:00:00,Furniture,Sofa,West,Corporate,3,151.35,454.05,121.77
+734,2025-11-28 00:00:00,Furniture,Desk,North,Consumer,1,80.56,80.56,21.85
+735,2025-11-25 00:00:00,Accessories,Water Bottle,North,Consumer,7,431.47,3020.29,825.73
+736,2025-09-18 00:00:00,Accessories,Wallet,South,Corporate,7,280.5,1963.5,319.09
+737,2025-11-06 00:00:00,Office Supplies,Pen,South,Corporate,1,293.19,293.19,76.73
+738,2025-10-07 00:00:00,Furniture,Sofa,East,Corporate,6,26.4,158.4,9.42
+739,2025-09-04 00:00:00,Accessories,USB Cable,North,Small Business,2,79.62,159.24,37.07
+740,2025-11-09 00:00:00,Office Supplies,Stapler,North,Small Business,2,130.16,260.32,54.06
+741,2025-01-28 00:00:00,Electronics,Monitor,East,Small Business,6,272.17,1633.02,86.05
+742,2025-06-19 00:00:00,Accessories,Wallet,West,Small Business,7,182.93,1280.51,377.03
+743,2025-12-22 00:00:00,Office Supplies,Printer Paper,South,Consumer,5,366.22,1831.1,349.61
+744,2025-01-27 00:00:00,Electronics,Mouse,South,Small Business,5,406.36,2031.8,418.71
+745,2025-09-16 00:00:00,Office Supplies,Stapler,North,Consumer,2,427.21,854.42,102.07
+746,2025-05-12 00:00:00,Furniture,Sofa,East,Corporate,1,373.3,373.3,75.02
+747,2025-05-14 00:00:00,Furniture,Table,East,Consumer,4,247.61,990.44,247.45
+748,2025-11-01 00:00:00,Electronics,Keyboard,North,Consumer,3,420.43,1261.29,300.43
+749,2025-08-14 00:00:00,Accessories,Phone Stand,South,Small Business,3,113.32,339.96,79.41
+750,2025-01-27 00:00:00,Office Supplies,Notebook,East,Consumer,3,237.37,712.11,120.39
+751,2025-12-16 00:00:00,Accessories,Wallet,South,Corporate,7,242.55,1697.85,146.5
+752,2025-07-15 00:00:00,Accessories,Backpack,East,Corporate,6,481.26,2887.56,637.34
+753,2025-11-09 00:00:00,Electronics,Laptop,East,Corporate,5,174.13,870.65,101.67
+754,2025-12-12 00:00:00,Electronics,Keyboard,West,Corporate,4,369.81,1479.24,291.68
+755,2025-12-20 00:00:00,Furniture,Sofa,East,Small Business,3,163.5,490.5,25.82
+756,2025-02-20 00:00:00,Electronics,Laptop,North,Corporate,2,345.89,691.78,95.38
+757,2025-01-13 00:00:00,Office Supplies,Printer Paper,South,Consumer,2,37.87,75.74,15.04
+758,2025-03-03 00:00:00,Furniture,Sofa,North,Small Business,2,429.66,859.32,70.87
+759,2025-05-31 00:00:00,Furniture,Chair,South,Corporate,8,333.63,2669.04,183.97
+760,2025-12-08 00:00:00,Accessories,USB Cable,West,Small Business,6,136.09,816.54,200.2
+761,2025-06-20 00:00:00,Office Supplies,Notebook,West,Corporate,1,136.54,136.54,34.57
+762,2025-04-13 00:00:00,Furniture,Table,North,Corporate,7,97.44,682.08,118.01
+763,2025-11-11 00:00:00,Furniture,Sofa,West,Consumer,2,457.18,914.36,209.25
+764,2025-10-20 00:00:00,Electronics,Laptop,North,Consumer,5,390.85,1954.25,106.88
+765,2025-12-07 00:00:00,Accessories,Water Bottle,North,Consumer,7,140.55,983.85,221.38
+766,2025-12-29 00:00:00,Accessories,Wallet,North,Small Business,8,244.29,1954.32,295.06
+767,2025-07-16 00:00:00,Electronics,Monitor,South,Consumer,8,69.39,555.12,102.05
+768,2025-01-29 00:00:00,Office Supplies,Printer Paper,East,Corporate,2,189.02,378.04,99.55
+769,2025-11-28 00:00:00,Office Supplies,Notebook,West,Corporate,4,96.54,386.16,23.11
+770,2025-07-19 00:00:00,Accessories,Water Bottle,East,Small Business,2,319,638,89.2
+771,2025-01-19 00:00:00,Electronics,Mouse,South,Consumer,4,22.43,89.72,26.83
+772,2025-10-04 00:00:00,Furniture,Table,West,Consumer,5,254.85,1274.25,371.11
+773,2025-01-29 00:00:00,Accessories,Backpack,North,Corporate,6,396.01,2376.06,144.24
+774,2025-10-02 00:00:00,Electronics,Headphones,West,Small Business,3,373.12,1119.36,121.17
+775,2025-12-01 00:00:00,Electronics,Laptop,South,Corporate,1,240.9,240.9,67.33
+776,2025-03-30 00:00:00,Electronics,Headphones,South,Consumer,1,453.28,453.28,115.67
+777,2025-02-02 00:00:00,Electronics,Mouse,South,Small Business,2,65.95,131.9,26.21
+778,2025-06-22 00:00:00,Furniture,Chair,South,Corporate,7,168.88,1182.16,347.51
+779,2025-10-31 00:00:00,Furniture,Bookshelf,South,Consumer,3,174.4,523.2,41.95
+780,2025-07-09 00:00:00,Furniture,Table,South,Small Business,3,224.94,674.82,189.91
+781,2025-11-10 00:00:00,Electronics,Headphones,North,Small Business,7,391.05,2737.35,147.56
+782,2025-04-02 00:00:00,Accessories,Backpack,North,Consumer,2,356.3,712.6,141.4
+783,2025-03-06 00:00:00,Office Supplies,Stapler,West,Small Business,4,80.11,320.44,37.73
+784,2025-11-09 00:00:00,Accessories,Phone Stand,South,Consumer,1,302.17,302.17,69.29
+785,2025-01-03 00:00:00,Electronics,Keyboard,East,Corporate,4,104.03,416.12,123.44
+786,2025-09-17 00:00:00,Electronics,Monitor,East,Small Business,4,237.47,949.88,196.26
+787,2025-02-27 00:00:00,Furniture,Bookshelf,North,Consumer,3,345.77,1037.31,303.04
+788,2025-12-10 00:00:00,Accessories,Phone Stand,South,Consumer,1,36.47,36.47,5.14
+789,2025-11-12 00:00:00,Furniture,Table,East,Corporate,8,31.23,249.84,58.74
+790,2025-09-21 00:00:00,Furniture,Desk,North,Corporate,2,44.72,89.44,9.73
+791,2025-04-12 00:00:00,Accessories,Wallet,East,Corporate,6,122.73,736.38,57.09
+792,2025-07-31 00:00:00,Furniture,Chair,South,Small Business,4,194.01,776.04,81.61
+793,2025-08-12 00:00:00,Accessories,Wallet,West,Consumer,3,115.92,347.76,70.37
+794,2025-08-23 00:00:00,Furniture,Table,East,Consumer,4,319.69,1278.76,375.81
+795,2025-12-21 00:00:00,Furniture,Bookshelf,South,Consumer,1,147.5,147.5,11.47
+796,2025-06-25 00:00:00,Accessories,Phone Stand,West,Consumer,4,444.34,1777.36,357.09
+797,2025-07-30 00:00:00,Furniture,Sofa,South,Consumer,8,432.48,3459.84,360.21
+798,2025-08-08 00:00:00,Accessories,Phone Stand,East,Consumer,4,131.44,525.76,83.37
+799,2025-01-03 00:00:00,Furniture,Sofa,South,Small Business,7,490.29,3432.03,205.97
+800,2025-09-29 00:00:00,Accessories,Wallet,North,Corporate,7,244.84,1713.88,427.62
+801,2025-02-12 00:00:00,Electronics,Mouse,West,Consumer,1,349.65,349.65,53.03
+802,2025-05-03 00:00:00,Furniture,Desk,East,Corporate,2,17.81,35.62,7.74
+803,2025-08-26 00:00:00,Furniture,Table,North,Corporate,3,438.36,1315.08,199.02
+804,2025-02-06 00:00:00,Office Supplies,Stapler,North,Small Business,7,447.78,3134.46,417.59
+805,2025-12-24 00:00:00,Electronics,Keyboard,West,Corporate,4,395.97,1583.88,111.25
+806,2025-02-26 00:00:00,Office Supplies,Notebook,East,Consumer,7,189.14,1323.98,271.13
+807,2025-10-14 00:00:00,Office Supplies,Printer Paper,South,Small Business,2,284.77,569.54,138.62
+808,2025-02-28 00:00:00,Furniture,Bookshelf,South,Small Business,8,371.32,2970.56,707.2
+809,2025-05-17 00:00:00,Furniture,Desk,East,Corporate,7,145.8,1020.6,67.2
+810,2025-09-27 00:00:00,Office Supplies,Stapler,West,Small Business,2,240.38,480.76,87.97
+811,2025-12-21 00:00:00,Office Supplies,Stapler,East,Small Business,2,102.29,204.58,55.44
+812,2025-05-28 00:00:00,Electronics,Laptop,West,Consumer,2,63.59,127.18,15.13
+813,2025-09-24 00:00:00,Furniture,Table,South,Consumer,1,153.65,153.65,44.93
+814,2025-08-16 00:00:00,Furniture,Table,East,Corporate,1,152.84,152.84,10.05
+815,2025-10-24 00:00:00,Furniture,Sofa,East,Corporate,6,331.32,1987.92,490.43
+816,2025-06-05 00:00:00,Accessories,Wallet,West,Corporate,3,450.16,1350.48,171
+817,2025-05-28 00:00:00,Office Supplies,Pen,West,Corporate,1,82.69,82.69,10.01
+818,2025-10-02 00:00:00,Furniture,Sofa,South,Small Business,5,99.32,496.6,46.6
+819,2025-01-22 00:00:00,Furniture,Desk,South,Consumer,6,291.52,1749.12,280.25
+820,2025-12-29 00:00:00,Office Supplies,Pen,South,Small Business,1,336.12,336.12,98.99
+821,2025-03-25 00:00:00,Furniture,Bookshelf,West,Small Business,5,69.53,347.65,19.55
+822,2025-03-21 00:00:00,Accessories,Water Bottle,West,Corporate,1,485.37,485.37,90.54
+823,2025-10-21 00:00:00,Office Supplies,Printer Paper,West,Corporate,3,401.79,1205.37,279.81
+824,2025-09-03 00:00:00,Accessories,USB Cable,North,Small Business,1,78.32,78.32,14.7
+825,2025-04-23 00:00:00,Office Supplies,Notebook,West,Small Business,8,185.12,1480.96,194.88
+826,2025-04-11 00:00:00,Furniture,Sofa,South,Corporate,1,50.96,50.96,13.37
+827,2025-09-09 00:00:00,Electronics,Monitor,West,Consumer,6,305.55,1833.3,326.12
+828,2025-08-07 00:00:00,Electronics,Keyboard,West,Consumer,6,199.2,1195.2,63.4
+829,2025-10-15 00:00:00,Office Supplies,Printer Paper,East,Corporate,2,115.69,231.38,62.92
+830,2025-08-06 00:00:00,Accessories,Phone Stand,East,Consumer,7,78.39,548.73,107.99
+831,2025-09-01 00:00:00,Electronics,Headphones,South,Corporate,6,42.4,254.4,73.78
+832,2025-11-24 00:00:00,Accessories,Backpack,North,Corporate,5,213.11,1065.55,201.34
+833,2025-05-29 00:00:00,Furniture,Desk,South,Corporate,8,30.69,245.52,62.99
+834,2025-01-14 00:00:00,Office Supplies,Stapler,West,Consumer,1,85.47,85.47,10.69
+835,2025-04-02 00:00:00,Accessories,Backpack,East,Corporate,8,454.33,3634.64,767.62
+836,2025-02-04 00:00:00,Electronics,Laptop,East,Corporate,6,294.72,1768.32,338.45
+837,2025-09-20 00:00:00,Office Supplies,Stapler,North,Corporate,1,424.19,424.19,38.48
+838,2025-12-21 00:00:00,Electronics,Headphones,East,Corporate,3,185.12,555.36,35.11
+839,2025-05-29 00:00:00,Office Supplies,Stapler,East,Consumer,5,269.51,1347.55,382.81
+840,2025-03-27 00:00:00,Furniture,Desk,North,Small Business,6,437.5,2625,673.85
+841,2025-10-01 00:00:00,Office Supplies,Printer Paper,East,Consumer,6,413.42,2480.52,132.02
+842,2025-06-24 00:00:00,Office Supplies,Printer Paper,West,Corporate,3,60.18,180.54,16
+843,2025-08-24 00:00:00,Furniture,Desk,North,Corporate,2,67.12,134.24,11.12
+844,2025-12-20 00:00:00,Electronics,Mouse,East,Corporate,6,78.12,468.72,75.22
+845,2025-03-02 00:00:00,Office Supplies,Pen,East,Consumer,4,73.07,292.28,65.34
+846,2025-03-08 00:00:00,Furniture,Bookshelf,South,Consumer,2,218.15,436.3,105.04
+847,2025-08-09 00:00:00,Electronics,Laptop,North,Corporate,1,106.21,106.21,6.18
+848,2025-01-23 00:00:00,Electronics,Mouse,North,Corporate,2,157.81,315.62,16.59
+849,2025-04-13 00:00:00,Electronics,Laptop,South,Small Business,3,338.59,1015.77,58.22
+850,2025-03-24 00:00:00,Furniture,Bookshelf,East,Corporate,4,257.41,1029.64,69.07
+851,2025-04-09 00:00:00,Electronics,Monitor,South,Small Business,5,94.17,470.85,112.3
+852,2025-12-29 00:00:00,Electronics,Laptop,South,Small Business,8,189.57,1516.56,299.29
+853,2025-07-14 00:00:00,Accessories,Backpack,South,Corporate,7,114.99,804.93,86.04
+854,2025-02-26 00:00:00,Electronics,Keyboard,North,Corporate,3,252.95,758.85,106.48
+855,2025-06-17 00:00:00,Office Supplies,File Folder,North,Consumer,8,66.7,533.6,64.51
+856,2025-07-28 00:00:00,Office Supplies,Stapler,South,Small Business,5,492.63,2463.15,386.69
+857,2025-01-07 00:00:00,Electronics,Mouse,East,Consumer,8,339.33,2714.64,404.73
+858,2025-07-25 00:00:00,Electronics,Laptop,South,Corporate,2,373.3,746.6,203.9
+859,2025-06-23 00:00:00,Furniture,Chair,East,Consumer,4,301.53,1206.12,359.02
+860,2025-09-13 00:00:00,Electronics,Headphones,West,Small Business,5,384.76,1923.8,464.58
+861,2025-12-08 00:00:00,Office Supplies,Stapler,East,Corporate,7,493.89,3457.23,614.88
+862,2025-05-09 00:00:00,Furniture,Table,North,Consumer,8,253.66,2029.28,420.25
+863,2025-01-28 00:00:00,Furniture,Chair,North,Small Business,2,254.09,508.18,28.81
+864,2025-06-05 00:00:00,Furniture,Table,East,Consumer,2,382.48,764.96,164.67
+865,2025-12-05 00:00:00,Accessories,Phone Stand,South,Corporate,8,250.22,2001.76,231.04
+866,2025-08-09 00:00:00,Office Supplies,File Folder,North,Consumer,2,197.98,395.96,50.94
+867,2025-01-17 00:00:00,Accessories,Phone Stand,West,Consumer,3,282.77,848.31,224.88
+868,2025-03-10 00:00:00,Office Supplies,Pen,West,Corporate,5,360.7,1803.5,309.96
+869,2025-10-11 00:00:00,Electronics,Monitor,West,Small Business,8,243.2,1945.6,512.84
+870,2025-10-30 00:00:00,Electronics,Mouse,East,Corporate,7,312.3,2186.1,302.1
+871,2025-10-30 00:00:00,Office Supplies,Printer Paper,North,Consumer,1,72.82,72.82,10.31
+872,2025-08-08 00:00:00,Electronics,Keyboard,West,Consumer,6,496.05,2976.3,455.32
+873,2025-11-28 00:00:00,Electronics,Headphones,South,Consumer,5,300.34,1501.7,416.87
+874,2025-03-28 00:00:00,Electronics,Keyboard,North,Corporate,1,273.82,273.82,16.25
+875,2025-01-11 00:00:00,Accessories,Wallet,West,Corporate,8,298.11,2384.88,706.98
+876,2025-10-21 00:00:00,Accessories,Wallet,West,Corporate,2,406.08,812.16,60.92
+877,2025-12-08 00:00:00,Furniture,Bookshelf,West,Small Business,6,91.65,549.9,68.67
+878,2025-02-08 00:00:00,Accessories,Water Bottle,West,Small Business,4,150.8,603.2,37.33
+879,2025-10-24 00:00:00,Accessories,Water Bottle,North,Small Business,2,300.01,600.02,71.01
+880,2025-02-09 00:00:00,Accessories,Phone Stand,South,Corporate,5,257.27,1286.35,160.76
+881,2025-05-09 00:00:00,Office Supplies,Pen,West,Corporate,8,339.06,2712.48,506.94
+882,2025-09-13 00:00:00,Electronics,Monitor,South,Small Business,4,333.8,1335.2,341.78
+883,2025-11-17 00:00:00,Accessories,USB Cable,West,Small Business,1,265.91,265.91,37.51
+884,2025-12-17 00:00:00,Furniture,Desk,South,Small Business,5,423.62,2118.1,323.15
+885,2025-05-27 00:00:00,Electronics,Headphones,West,Corporate,3,135.66,406.98,81.52
+886,2025-04-09 00:00:00,Accessories,Water Bottle,North,Consumer,1,130.34,130.34,33.47
+887,2025-11-28 00:00:00,Accessories,Phone Stand,West,Corporate,1,108.98,108.98,12.88
+888,2025-10-09 00:00:00,Electronics,Keyboard,East,Small Business,3,325.7,977.1,59.17
+889,2025-06-10 00:00:00,Accessories,Backpack,North,Consumer,5,434.91,2174.55,598.31
+890,2025-03-13 00:00:00,Accessories,USB Cable,North,Corporate,4,64.85,259.4,60.6
+891,2025-02-16 00:00:00,Electronics,Monitor,East,Corporate,4,303.91,1215.64,295.76
+892,2025-05-01 00:00:00,Office Supplies,Printer Paper,West,Small Business,7,116.82,817.74,62.72
+893,2025-05-11 00:00:00,Furniture,Bookshelf,West,Corporate,1,250.28,250.28,35.96
+894,2025-12-16 00:00:00,Electronics,Keyboard,West,Corporate,4,482.02,1928.08,520.31
+895,2025-07-08 00:00:00,Furniture,Bookshelf,West,Small Business,5,20.33,101.65,29.65
+896,2025-10-10 00:00:00,Electronics,Laptop,South,Corporate,7,161.54,1130.78,327.5
+897,2025-07-18 00:00:00,Office Supplies,Notebook,South,Corporate,1,455.8,455.8,67.57
+898,2025-06-02 00:00:00,Office Supplies,Printer Paper,North,Consumer,4,431.11,1724.44,155.3
+899,2025-05-21 00:00:00,Accessories,USB Cable,West,Consumer,2,413.37,826.74,235.72
+900,2025-08-05 00:00:00,Accessories,Phone Stand,East,Small Business,2,413.96,827.92,185.97
+901,2025-10-08 00:00:00,Electronics,Keyboard,West,Small Business,6,232.1,1392.6,79.15
+902,2025-03-11 00:00:00,Electronics,Headphones,West,Small Business,1,206.32,206.32,42.72
+903,2025-03-22 00:00:00,Office Supplies,File Folder,North,Consumer,4,263.02,1052.08,307.65
+904,2025-08-20 00:00:00,Furniture,Sofa,West,Corporate,8,438.02,3504.16,292.17
+905,2025-04-12 00:00:00,Furniture,Sofa,East,Corporate,2,213.1,426.2,40.69
+906,2025-01-12 00:00:00,Accessories,Wallet,South,Consumer,4,454.35,1817.4,533.46
+907,2025-07-25 00:00:00,Furniture,Bookshelf,South,Consumer,7,304.19,2129.33,185.92
+908,2025-09-27 00:00:00,Office Supplies,Pen,North,Consumer,7,388.95,2722.65,767.98
+909,2025-04-15 00:00:00,Accessories,Backpack,South,Small Business,4,473.57,1894.28,479.92
+910,2025-03-08 00:00:00,Office Supplies,Printer Paper,West,Corporate,7,429.61,3007.27,601.52
+911,2025-07-29 00:00:00,Office Supplies,Pen,West,Consumer,3,24.1,72.3,21.26
+912,2025-07-09 00:00:00,Furniture,Sofa,West,Consumer,8,52.01,416.08,69.58
+913,2025-07-16 00:00:00,Office Supplies,Stapler,South,Small Business,7,370.69,2594.83,295.96
+914,2025-06-20 00:00:00,Electronics,Monitor,North,Consumer,4,240.76,963.04,133.45
+915,2025-11-14 00:00:00,Electronics,Laptop,East,Small Business,7,158.23,1107.61,164.67
+916,2025-04-02 00:00:00,Office Supplies,Pen,North,Small Business,5,93.23,466.15,80.74
+917,2025-06-12 00:00:00,Office Supplies,Stapler,South,Consumer,7,79.48,556.36,44.07
+918,2025-07-04 00:00:00,Electronics,Headphones,West,Corporate,7,148.63,1040.41,280.11
+919,2025-03-26 00:00:00,Office Supplies,File Folder,East,Corporate,6,371.07,2226.42,384.77
+920,2025-04-07 00:00:00,Furniture,Sofa,West,Consumer,3,36.74,110.22,10.56
+921,2025-08-28 00:00:00,Accessories,USB Cable,South,Small Business,7,66.85,467.95,128.12
+922,2025-12-30 00:00:00,Accessories,Backpack,West,Corporate,8,234.3,1874.4,146.43
+923,2025-04-15 00:00:00,Furniture,Chair,East,Consumer,5,98.52,492.6,45.36
+924,2025-01-03 00:00:00,Office Supplies,File Folder,South,Small Business,3,214.05,642.15,44.44
+925,2025-05-26 00:00:00,Accessories,Backpack,East,Consumer,2,203.14,406.28,80.27
+926,2025-02-11 00:00:00,Electronics,Keyboard,South,Consumer,8,417.04,3336.32,716.92
+927,2025-01-23 00:00:00,Accessories,USB Cable,North,Corporate,8,169.21,1353.68,315.25
+928,2025-05-25 00:00:00,Furniture,Desk,North,Small Business,6,401.09,2406.54,567.82
+929,2025-04-02 00:00:00,Accessories,Backpack,West,Corporate,4,482.87,1931.48,514.51
+930,2025-07-18 00:00:00,Electronics,Laptop,South,Consumer,7,149.62,1047.34,249.41
+931,2025-08-10 00:00:00,Furniture,Chair,East,Corporate,5,452.83,2264.15,454.82
+932,2025-04-13 00:00:00,Office Supplies,Notebook,East,Small Business,8,228.27,1826.16,268.49
+933,2025-08-05 00:00:00,Office Supplies,File Folder,West,Consumer,6,310.8,1864.8,295.62
+934,2025-06-24 00:00:00,Accessories,Backpack,North,Small Business,8,341.46,2731.68,578.85
+935,2025-08-28 00:00:00,Furniture,Table,North,Corporate,7,48.8,341.6,85.53
+936,2025-06-03 00:00:00,Office Supplies,Pen,South,Small Business,4,266.32,1065.28,131.96
+937,2025-09-20 00:00:00,Electronics,Monitor,North,Consumer,2,260.22,520.44,79.76
+938,2025-05-11 00:00:00,Accessories,Wallet,East,Corporate,2,386.64,773.28,41.81
+939,2025-01-24 00:00:00,Accessories,Water Bottle,South,Corporate,2,213.96,427.92,96.75
+940,2025-08-19 00:00:00,Office Supplies,File Folder,West,Small Business,5,177.25,886.25,247.73
+941,2025-11-06 00:00:00,Furniture,Desk,South,Consumer,5,437.09,2185.45,167.37
+942,2025-01-07 00:00:00,Electronics,Laptop,West,Consumer,3,331.34,994.02,164.05
+943,2025-11-13 00:00:00,Accessories,Wallet,West,Corporate,6,348.42,2090.52,607.89
+944,2025-03-11 00:00:00,Accessories,USB Cable,North,Consumer,1,103.49,103.49,26.29
+945,2025-11-29 00:00:00,Furniture,Chair,South,Corporate,3,328.37,985.11,156.58
+946,2025-03-17 00:00:00,Furniture,Chair,East,Corporate,8,216.72,1733.76,137.17
+947,2025-01-11 00:00:00,Furniture,Table,West,Corporate,8,296.76,2374.08,238.2
+948,2025-02-22 00:00:00,Accessories,Backpack,East,Consumer,7,489.95,3429.65,899.1
+949,2025-09-06 00:00:00,Office Supplies,Notebook,West,Corporate,8,123.63,989.04,64.46
+950,2025-02-02 00:00:00,Electronics,Mouse,East,Small Business,5,447.51,2237.55,345.22
+951,2025-11-27 00:00:00,Accessories,Backpack,West,Small Business,6,229.68,1378.08,219.19
+952,2025-06-26 00:00:00,Furniture,Bookshelf,South,Corporate,8,123.73,989.84,103.86
+953,2025-05-31 00:00:00,Office Supplies,File Folder,West,Consumer,7,480.3,3362.1,868.33
+954,2025-04-17 00:00:00,Office Supplies,Stapler,South,Small Business,5,348.44,1742.2,124.65
+955,2025-03-22 00:00:00,Accessories,Water Bottle,South,Consumer,8,59.44,475.52,73.23
+956,2025-10-13 00:00:00,Accessories,USB Cable,South,Consumer,1,499.64,499.64,69.8
+957,2025-09-15 00:00:00,Office Supplies,Printer Paper,South,Consumer,1,405.34,405.34,54.49
+958,2025-10-15 00:00:00,Electronics,Monitor,South,Consumer,4,248.32,993.28,296.41
+959,2025-12-20 00:00:00,Office Supplies,Notebook,East,Consumer,2,356.14,712.28,200.62
+960,2025-11-09 00:00:00,Accessories,Phone Stand,North,Consumer,2,413.57,827.14,50.04
+961,2025-07-05 00:00:00,Electronics,Headphones,North,Consumer,3,366.89,1100.67,249.9
+962,2025-07-06 00:00:00,Accessories,Backpack,South,Small Business,6,411.39,2468.34,199.31
+963,2025-05-06 00:00:00,Furniture,Table,West,Consumer,8,177.25,1418,249.93
+964,2025-08-01 00:00:00,Electronics,Keyboard,East,Small Business,6,318.43,1910.58,212.77
+965,2025-07-31 00:00:00,Accessories,Water Bottle,South,Corporate,7,450.05,3150.35,907.18
+966,2025-01-06 00:00:00,Office Supplies,Notebook,West,Consumer,2,51.54,103.08,13.27
+967,2025-01-19 00:00:00,Furniture,Table,North,Corporate,3,452.23,1356.69,87.44
+968,2025-12-25 00:00:00,Office Supplies,Stapler,West,Small Business,5,363.56,1817.8,233.45
+969,2025-11-09 00:00:00,Office Supplies,Notebook,East,Small Business,3,353.14,1059.42,171.15
+970,2025-06-26 00:00:00,Furniture,Sofa,West,Small Business,7,389.95,2729.65,737.67
+971,2025-03-06 00:00:00,Electronics,Laptop,East,Corporate,5,114.73,573.65,102.06
+972,2025-03-23 00:00:00,Office Supplies,File Folder,East,Small Business,1,23.67,23.67,5.9
+973,2025-08-05 00:00:00,Office Supplies,Pen,East,Small Business,2,368.67,737.34,192
+974,2025-01-25 00:00:00,Office Supplies,File Folder,East,Consumer,2,229.88,459.76,88.78
+975,2025-10-25 00:00:00,Electronics,Mouse,East,Consumer,4,181.67,726.68,88.03
+976,2025-06-17 00:00:00,Furniture,Table,South,Consumer,4,413.19,1652.76,231.91
+977,2025-02-11 00:00:00,Electronics,Headphones,West,Corporate,2,40.47,80.94,22.03
+978,2025-07-09 00:00:00,Accessories,Water Bottle,West,Consumer,7,298.24,2087.68,375.23
+979,2025-08-05 00:00:00,Accessories,USB Cable,West,Small Business,8,347.62,2780.96,798.01
+980,2025-03-07 00:00:00,Accessories,Water Bottle,South,Small Business,8,358.46,2867.68,236.14
+981,2025-01-17 00:00:00,Electronics,Headphones,West,Corporate,3,472.59,1417.77,201.8
+982,2025-03-03 00:00:00,Electronics,Monitor,West,Consumer,6,290.16,1740.96,104.58
+983,2025-07-11 00:00:00,Furniture,Chair,East,Corporate,5,154.05,770.25,43.9
+984,2025-06-06 00:00:00,Furniture,Desk,West,Consumer,5,115.63,578.15,147.3
+985,2025-06-28 00:00:00,Accessories,Backpack,North,Small Business,2,436.51,873.02,134.79
+986,2025-07-13 00:00:00,Office Supplies,File Folder,West,Corporate,8,418.89,3351.12,866
+987,2025-12-08 00:00:00,Furniture,Desk,West,Corporate,8,83,664,154.03
+988,2025-04-30 00:00:00,Electronics,Monitor,West,Corporate,7,176.11,1232.77,75.76
+989,2025-12-29 00:00:00,Accessories,USB Cable,North,Consumer,1,290.28,290.28,72.29
+990,2025-10-14 00:00:00,Office Supplies,File Folder,North,Small Business,2,104.29,208.58,42.69
+991,2025-09-15 00:00:00,Electronics,Monitor,South,Corporate,1,68.94,68.94,19.58
+992,2025-05-06 00:00:00,Furniture,Chair,East,Consumer,8,51.48,411.84,75.53
+993,2025-01-12 00:00:00,Office Supplies,Stapler,North,Corporate,6,224.14,1344.84,206.75
+994,2025-02-28 00:00:00,Office Supplies,Stapler,East,Consumer,2,275.47,550.94,66.85
+995,2025-06-07 00:00:00,Furniture,Bookshelf,North,Consumer,7,342.52,2397.64,155.2
+996,2025-01-30 00:00:00,Office Supplies,Pen,North,Small Business,5,201.07,1005.35,130.71
+997,2025-03-03 00:00:00,Accessories,USB Cable,East,Corporate,1,109.25,109.25,26.01
+998,2025-05-18 00:00:00,Furniture,Table,West,Consumer,1,165.98,165.98,31.25
+999,2025-11-21 00:00:00,Electronics,Mouse,North,Corporate,4,457.73,1830.92,100.07
+1000,2025-10-18 00:00:00,Electronics,Headphones,South,Corporate,7,228.53,1599.71,418.44
